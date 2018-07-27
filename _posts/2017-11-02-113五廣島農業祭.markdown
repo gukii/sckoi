@@ -1,0 +1,31 @@
+---
+layout: post
+title: '113五廣島農業祭' 
+date: 2017-11-02T12:17:17+0000 
+categories: [] 
+media:
+  - id: aDeghwI
+    name: pjzJJnO1BXCZvkqZRyqQiJ9PrP
+    description: '113五廣島農業祭錦鯉品評會  白寫50部，哪尾會勝出呢？'   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/aDeghwI.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXknJpFXkDLYQ9Gqf7w3QOLXkKtkA3wE64NGSQnK8LGwlNc0V9JNOYVEtWrXoK1EvZiADnmpv6MvF59RRX9rA7sY5D3ZD70McznEYQPPqOf0Q8gAEOO3FAQl8jA6DQSzwyLPJYy1cjgly7zZq4s5ZmwWXZq3fXrXgvEAQ7FN2JBrqkorhK1jDWBjg9i8wVKBZBKj
+    parentId: pjzJJnO1BXCZvkqZRyqQiJ9PrP
+    postId: jKGKzGX98ZC0V4GnzK0PF9ABZ1G14GsYQ9D27oGjun3Dxm1QoyCMZ
+    factor: 1.00
+    portrait: 0
+    mInfo: 0P0bJq6cyYiDLhl
+message: '113五廣島農業祭錦鯉品評會  白寫50部，哪尾會勝出呢？'  
+---
+
+11/3(五)廣島農業祭錦鯉品評會  
+白寫50部，哪尾會勝出呢？
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/aDeghwI.jpg"><img class="postImage" src="https://i.imgur.com/aDeghwIh.jpg" />  
+11/3(五)廣島農業祭錦鯉品評會
+白寫50部，哪尾會勝出呢？  
+ </a>   
