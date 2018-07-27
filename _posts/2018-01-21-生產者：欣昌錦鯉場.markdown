@@ -1,0 +1,32 @@
+---
+layout: post
+title: '生產者：欣昌錦鯉場' 
+date: 2018-01-21T04:02:22+0000 
+categories: [] 
+media:
+  - id: BTHDZrB
+    name: m9G2vBqZpkUqR299Gv0NiQRAox
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/BTHDZrB.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrJ8XFDlQ2WgnLLCDRZ1Kopp7sPOPzZDO5nImZXBkOgqYTBAN5p23qzhoAZBJNAOzsWPXl06RqQuwYk1r22KlfrJNM34lLgTo6BEnAnAPhnv13ylRKKURBE8R1pN2IKLqwGEmlWiNGrLNXQZ1uLV1YLQ9E9igjqXkqPPkfD5Arz5W3BiARzRnzV9guNLBWZgDDvH9nVmMjXL7SYNX
+    parentId: m9G2vBqZpkUqR299Gv0NiQRAox
+    postId: 07l7WlwrLYHzpXgGnqzZHlZ1PONOgwS0p3OynD6qTz0vlD1go2uNo
+    factor: 1.78
+    portrait: 1
+    mInfo: eZwf5dNnpaVaEKy
+message: '生產者;欣昌錦鯉場  生產年份;2017年5月  錦鯉品系;紅九紋龍 Beni Kumonryu  尺寸;13公分 13cm  性別;不..'  
+---
+
+生產者：欣昌錦鯉場  
+生產年份：2017年5月  
+錦鯉品系：紅九紋龍 Beni Kumonryu  
+尺寸：13公分 13cm  
+性別：不詳 unknown
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/BTHDZrB.jpg"><img class="postImage" src="https://i.imgur.com/BTHDZrBh.jpg" />  
+</a>   
