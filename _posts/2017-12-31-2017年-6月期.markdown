@@ -1,0 +1,96 @@
+---
+layout: post
+title: '2017年 6月期' 
+date: 2017-12-31T12:41:27+0000 
+categories: [] 
+media:
+  - id: d8XA6rZ
+    name: O0qEEW52EmhkpWpo0NrzuPKgQ7
+    description: '欣昌產-黑五色  黑五色是目前華人市場最親睞的商品之一，其深灰到漆黑的外表上，有著出淤泥而不染的..'   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/d8XA6rZ.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRmrRB66Pt3ARxpDQW3ilZ1wPOwLmiZjYwKY2gMFk0yOG6vEPSJvRm6XJOYSO2x5BZZVmT8DZVWzJAMTvkm9w2M5BSD3yW17MlphQA8OnWWVjhozyQJN44muO5DqvODolfWG66ywLj8Hq4VP2rYrwcORRomN9DNT3x9No2W19T2qgoAQlxwtkKYNAmYjMcZAoLBRPGN
+    parentId: PVrMM059MncnKLLZJqg5S68LZ4
+    postId: mjLjDL19yOTq9oPjVBqDtKAPWQYQZ5clLK3Nlq6kfX77PZPyXBhz5
+    factor: 1.50
+    portrait: 1
+    mInfo: MLUPwo4EMtgxP0X
+  - id: gHkhXUG
+    name: O0qEEW52EmhkpWLx2Lz0hP93Yk
+    description: '欣昌產-衣五色  隸屬於黑五色的類型，但紅盤上附著藍衣般網目，小時候看起來髒髒的，但未來長大拓展..'   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/gHkhXUG.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9NnPP0c23mkE1gA2cBYq25PD6jSxPknL26nlT2nm1MxzAQfwp2ZpExzNCmBK2gym1of798pWr84JuJVMR2No37HDGRDlOGmZFQZ2Xo88GwhPEJ41kXXmUWX4RBWxM9uJxr10Wg9Bh8Y5DpKQoBsovJQg01xGFyBJ9z5ORYUv2k9VEDkzcovVjEYV1ktoVGzWK6zG
+    parentId: PVrMM059MncnKLLZJqg5S68LZ4
+    postId: mjLjDL19yOTq9oPjVBqDtKAPWQYQZ5clLK3Nlq6kfX77PZPyXBhz5
+    factor: 1.50
+    portrait: 1
+    mInfo: d3qtFd5rPVrBQfr
+  - id: tiWv2vT
+    name: 2wOggj1ogyTQpMLxVBZ3h96gwK
+    description: '欣昌產-白五色  有別於黑五色的強烈對比，白五色給人樸實、穩重且能讓人脫離世俗繁華的氣息，紅盤亮..'   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/tiWv2vT.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRy73yznnJcOLNJ4jgZOCPZY2mAkp2fpyv7GOMogH79r5LNnKvFYO6rRWYXOSQwr3Okn9lhvRRAEkjZlCo7Q3j7o00UNDwX8MKRVCq5pXzR167uX1MjxAX75TAOVrRj511UmDoW6DXx9fPl4r9LB2jcLjEADz586cQXoRPZ6EMUDPVNpMPmVfgROm9r2Q8sj7XOPV2o
+    parentId: PVrMM059MncnKLLZJqg5S68LZ4
+    postId: mjLjDL19yOTq9oPjVBqDtKAPWQYQZ5clLK3Nlq6kfX77PZPyXBhz5
+    factor: 1.50
+    portrait: 1
+    mInfo: wlSMSuGNTs1P5Mw
+  - id: RyOTT6Y
+    name: j9LvvEOkvXt0nWzn4w2Jf1EXpw
+    description: '欣昌產-紅白五色  實驗對象，五色產出的紅白，紅盤質地深沉，但未來的發展，是否會變成夢想中的五色..'   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/RyOTT6Y.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnW77XFRo7AKOXjRf3OrY17YKmF50lE0VJXOhAR08VwO9PsY4qv1WkgEFAzk95qQ3EHg3qojEjZyhYQ18w8J14Ij4vYoQ8jRhYVJm8ggRxfNMrx6J00wSgv7pGgr3Zi1oWYRZLALHJOQWxEOm7CGXnljlJE8u5gjomwQ6Vhrx66AOPDvSxpVqPQV1AFzw4y0Pz8L
+    parentId: PVrMM059MncnKLLZJqg5S68LZ4
+    postId: mjLjDL19yOTq9oPjVBqDtKAPWQYQZ5clLK3Nlq6kfX77PZPyXBhz5
+    factor: 1.50
+    portrait: 1
+    mInfo: QodDySIYHrZsJuo
+message: '2017年 6月期間，欣昌產出第一批五色，卻在飼養後呈現出四種類型，黑五色、白五色、衣五色及紅白五色，每種呈現出的感覺不盡相同，未來走向..'  
+---
+
+2017年 6月期間，欣昌產出第一批五色，卻在飼養後呈現出四種類型，黑五色、白五色、衣五色及紅白五色，每種呈現出的感覺不盡相同，未來走向不得而知，歡迎大家一起來討論。  
+  
+欣昌產-黑五色  
+黑五色是目前華人市場最親睞的商品之一，其深灰到漆黑的外表上，有著出淤泥而不染的鮮豔紅盤，強烈的對比，吸引各方好手的目光。  
+  
+欣昌產-白五色  
+有別於黑五色的強烈對比，白五色給人樸實、穩重且能讓人脫離世俗繁華的氣息，紅盤亮麗卻多了份柔和。  
+  
+欣昌產-衣五色  
+隸屬於黑五色的類型，但紅盤上附著藍衣般網目，小時候看起來髒髒的，但未來長大拓展開來，如同將皺褶的網布攤開，呈現出漸層感，讓整體表現出低調的華貴。  
+  
+欣昌產-紅白五色  
+實驗對象，五色產出的紅白，紅盤質地深沉，但未來的發展，是否會變成夢想中的五色，是讓人有所期待。在幼魚階段底色尚未明朗的五色，隨著水質、溫度、飼料及飼養方式的不同，將來如何變化，只能由飼養者去開拓新大陸，並互相交流討論了。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/d8XA6rZ.jpg"><img class="postImage" src="https://i.imgur.com/d8XA6rZh.jpg" />  
+欣昌產-黑五色
+黑五色是目前華人市場最親睞的商品之一，其深灰到漆黑的外表上，有著出淤泥而不染的..  
+ </a>    
+
+<a href="https://i.imgur.com/gHkhXUG.jpg"><img class="postImage" src="https://i.imgur.com/gHkhXUGh.jpg" />  
+欣昌產-衣五色
+隸屬於黑五色的類型，但紅盤上附著藍衣般網目，小時候看起來髒髒的，但未來長大拓展..  
+ </a>    
+
+<a href="https://i.imgur.com/tiWv2vT.jpg"><img class="postImage" src="https://i.imgur.com/tiWv2vTh.jpg" />  
+欣昌產-白五色
+有別於黑五色的強烈對比，白五色給人樸實、穩重且能讓人脫離世俗繁華的氣息，紅盤亮..  
+ </a>    
+
+<a href="https://i.imgur.com/RyOTT6Y.jpg"><img class="postImage" src="https://i.imgur.com/RyOTT6Yh.jpg" />  
+欣昌產-紅白五色
+實驗對象，五色產出的紅白，紅盤質地深沉，但未來的發展，是否會變成夢想中的五色..  
+ </a>   
