@@ -1,0 +1,44 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2018-04-14T22:33:25+0000 
+categories: [] 
+media:
+  - id: CkEkzpa
+    name: VVllN5lz7BU8YnkxqjROSQmEJG
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/CkEkzpa.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217NN9ZhgOnykGYKGt2vzqzYw1EtB0Q0O1PlXhZE5xXP0o3S2nwAK58r4Iw7PpKZj9RivqmKrRKVGF79oZnkzABhJXZjmY2qVfLgPqZP00XUQZ2Xo88GwhPEJ41kXXmUWX4RBW6kzu39AyBW2P4s8KMBqR1z7F4AlmGVM2OC7LKnAjYGMsGAWOl1x0lCovVjEYV1ktozx1AAm2l
+    parentId: KVmm6YmlLnUk6z16pqDxIpXDlr
+    postId: lgKgBKZ97xsljwP2W0lpUWzEA14171ikyLmRqMkyh0V3XN6D2vuxN
+    factor: 1.33
+    portrait: 1
+    mInfo: gib35GkZhFXVDcA
+  - id: v4IgnYo
+    name: MVoo9EonJpUY7YnDv80LuQ3lMA
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/v4IgnYo.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqQYPTA2QvxDMqqtr9VE0lJJWSonoAPWm2XHj10KXvLJzs85grLKq9ptrXRBpjPL6FJNnL8NOxOs8y1MkZz7lT0811VONr8tQyQwW0Dkpc564PKpYzzCwxpWw48ARTvMrE2DVyXiLr5p6GmRpUj1vX1QQYrCVgK79Vl1ycAv718zmM5hj6j9PX3opirAGVDvjjLH7LEzLvnwZHqNO
+    parentId: KVmm6YmlLnUk6z16pqDxIpXDlr
+    postId: lgKgBKZ97xsljwP2W0lpUWzEA14171ikyLmRqMkyh0V3XN6D2vuxN
+    factor: 1.78
+    portrait: 1
+    mInfo: N4HWqG2HN87uK62
+story: '欣昌錦鯉養殖場 added a photo and a video from April 14.'  
+---
+
+欣昌錦鯉養殖場 added a photo and a video from April 14.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/CkEkzpa.jpg"><img class="postImage" src="https://i.imgur.com/CkEkzpah.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/v4IgnYo.jpg"><img class="postImage" src="https://i.imgur.com/v4IgnYoh.jpg" />  
+</a>   
