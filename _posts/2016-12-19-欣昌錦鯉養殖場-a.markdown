@@ -1,0 +1,119 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2016-12-19T06:29:02+0000 
+categories: [] 
+media:
+  - id: QihlvEC
+    name: PVjWQAz9LDf6jPWy6kAYH69zRX
+    description: 'SC_20161219_SHOWA-25cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/QihlvEC.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoNgw9Qg8Bcj4poDN7OwsE3k6mmB4YiW2qGAOK2ViQWP5EX2yNsnVkXvMOyRHRzx19wq3Wsv4AxYO3rpINEGm9RRZnS7kgP6ZwwpT9gYk59VQvcv1PEE2jAnIjLNo90Qx3HKVl40ArrMTAJmw7wVq9fjkWOpqP5qSroEKQDEz6I21BVB5OLL
+    parentId: PVjWQAz9LDf6jPWy6kAYH69zRX
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBMuKDyELQW0rfmQ0ODG0q4UJ4
+    factor: 1.40
+    portrait: 1
+    mInfo: gXHbxqfC37nB7NC
+  - id: Y5OibMs
+    name: qkQLZmlr14I258EzwLBDfN2Zjg
+    description: 'SC_20161217_TANCHO KOHAKU-25cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/Y5OibMs.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKQWjy5QzcZlQk1PPJpiL35KPPg92uQqkOr9Rk4tkXXlWB2KZT5q4EylyA8TwRlPBVoxNU7YyqGn3B9c5OMjyDDnWhK80gMBXXzF36LB73GmPul4zmwyQ3zspjRwx4AXKIJ61zmA8pLSxAKKJD7L9S9BjGKNvn7u93ARvVAlLHzQj0n7E46
+    parentId: qkQLZmlr14I258EzwLBDfN2Zjg
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBMuKDyELQW0rfmQ0ODG0q4UJ4
+    factor: 1.40
+    portrait: 1
+    mInfo: AEzQH3TBy5KSELH
+  - id: XADL69b
+    name: 4y6GLPzqOotxqZXJWKnNcVLOrk
+    description: 'SC_20161219_SHOWA-27cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/XADL69b.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZXj5QYLjoF84Ag6B1MJIY9x4XVW8lTMWNVpnGAgFQ3259X140iLABmMBOBvTYownq4vOOHyRmKw14zgFj0XNkPPAzfD7mJL0nnXCzPZV7zk21IDO0E3zrOKt9nJLDpGgLTZJVEpjwzmC50PXAW3lgcq0gRkrY30twjvgZWvYLtYVmYo0qRg
+    parentId: 4y6GLPzqOotxqZXJWKnNcVLOrk
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBMuKDyELQW0rfmQ0ODG0q4UJ4
+    factor: 1.40
+    portrait: 1
+    mInfo: XstMWqB3yHxpwHU
+  - id: pUk2EZj
+    name: BYr96jP2q0inw14N3ByxIWXEXz
+    description: 'SC_20161219_SHOWA-25cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/pUk2EZj.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31xErPxy8Tvr8kKK8A6Im3BE66j56clw3L8KykwcEg2Q6qp3mC3VWpX2wY4TqBonnzJjqiMWKw2En9OF76PNOgg2AfYlgkKGww3IXErgzXrjjCogPkEXK5XC56oMm9pwAhx6GrkqXJpSJr7EM6kxAIALENgqoENcok8R7j8m4um26P8gPpv
+    parentId: BYr96jP2q0inw14N3ByxIWXEXz
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBMuKDyELQW0rfmQ0ODG0q4UJ4
+    factor: 1.40
+    portrait: 1
+    mInfo: XdTHPuz3gSRUj7H
+  - id: UAzPhdv
+    name: rl2V9nmv14tmYEogDGERTjDo2n
+    description: 'SC_20161219_SHOWA-24cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/UAzPhdv.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrXn83VVz1i61KzO8g14h3Q82pqmj0FqRQ0XB0BEFNmzDpYy8VCpwzPL65VATYwonW0J22HDG39g98PPi6pYjgnnzZfE19RnYKKZcDwOWRDKjlfxYxvxWLrnSWwzjKDrY8hEqnoZmRPRUW9zo2vLw7hVG7o43LMqiKjPp79PBlixkzMZOmm8
+    parentId: rl2V9nmv14tmYEogDGERTjDo2n
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBMuKDyELQW0rfmQ0ODG0q4UJ4
+    factor: 1.40
+    portrait: 1
+    mInfo: hi5VZIv0PMMtw88
+  - id: xCvq5zm
+    name: wq07rvKA14fN1Gq2VonpS1LBmW
+    description: 'SC_20161218_SHIRO UTSURI-35cm-M'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/xCvq5zm.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrXn83r8Lxt6mm4X2qZBi3Q82ppxXRcqLD1kErQocNmWOByXlPTp0LLNPW42iVWn3zDVW4hpOq9JPKZPS6pYjgnnzZfE19RnYKKZcDwOWRDzOjSyZxGkRwnxFWnM712MyWTwryE93BNxuWpWXD2q0EcPmmZO3vmKSKjPp79PBXsnAEA7nDQB
+    parentId: wq07rvKA14fN1Gq2VonpS1LBmW
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBMuKDyELQW0rfmQ0ODG0q4UJ4
+    factor: 1.40
+    portrait: 1
+    mInfo: 5DA7l4Nxp1U5Dv2
+story: '欣昌錦鯉養殖場 added 6 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 6 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/QihlvEC.jpg"><img class="postImage" src="https://i.imgur.com/QihlvECh.jpg" />  
+SC_20161219_SHOWA-25cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/Y5OibMs.jpg"><img class="postImage" src="https://i.imgur.com/Y5OibMsh.jpg" />  
+SC_20161217_TANCHO KOHAKU-25cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/XADL69b.jpg"><img class="postImage" src="https://i.imgur.com/XADL69bh.jpg" />  
+SC_20161219_SHOWA-27cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/pUk2EZj.jpg"><img class="postImage" src="https://i.imgur.com/pUk2EZjh.jpg" />  
+SC_20161219_SHOWA-25cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/UAzPhdv.jpg"><img class="postImage" src="https://i.imgur.com/UAzPhdvh.jpg" />  
+SC_20161219_SHOWA-24cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/xCvq5zm.jpg"><img class="postImage" src="https://i.imgur.com/xCvq5zmh.jpg" />  
+SC_20161218_SHIRO UTSURI-35cm-M  
+ </a>   
