@@ -1,0 +1,29 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-01T03:38:48+0000 
+categories: [] 
+media:
+  - id: lWhgMAC
+    name: yvw2mw8n0PU4Mr9WGxvytN6Xq8
+    description: 'SC_20161231_KUMORYU-22cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/lWhgMAC.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlZoxZA74FKW38xl25PcEg24BQyPDcgQYKAV6XkTRojWx7ONrUzgBJVLQ7nSYJz0KJLpgf7zkWvYzlATRqV3xEEL2fO0r2pN66MhXyvWJXMZXSLE9x84wrvf0jAMrzP5mILpAAgW99ot9ygPKXMovT7ZpZoyWvLhxgML8WMZ0FA3k5mPL2o
+    parentId: yvw2mw8n0PU4Mr9WGxvytN6Xq8
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RJsjwA5LEJJ7I8o8w5JGXEhpD
+    factor: 1.40
+    portrait: 1
+    mInfo: uhjY0NnnbXgAntY
+story: '欣昌錦鯉養殖場 added 3 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/lWhgMAC.jpg"><img class="postImage" src="https://i.imgur.com/lWhgMACh.jpg" />  
+SC_20161231_KUMORYU-22cm  
+ </a>   
