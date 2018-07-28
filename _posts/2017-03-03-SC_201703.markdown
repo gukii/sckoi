@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'SC_201703' 
+date: 2017-03-03T04:23:38+0000 
+categories: [] 
+media:
+  - id: dn6S6ch
+    name: VVv2jkLwxNT8vglL5mrKTQm3yA
+    description: 'SC_20170303_KOHAKU-20cm'   
+    height: 528
+    width: 377
+    type: image/jpeg
+    link: https://i.imgur.com/dn6S6ch.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOK3QgvfMy0wv3G4Bi2kZYKVmAyuEvRBmorxqS3y3WEly8GsMrQADrLymcX033MPlzncWAP2YLYzRfxJ6q38BB5SQJ37BYqy0HL16EVA2VZuxmoYQPG5zFGpN334KkkFWRRYrE7wKCnzWoAPJEGsGxjW5RLJlS4gngjn3olfmJrZkzx5OsDGG6g
+    parentId: VVv2jkLwxNT8vglL5mrKTQm3yA
+    postId: 1NmNXm0v4WuXlABMr2X5IMz5wYqYkofEAJQRqLjwCNDYZkV7gvh80
+    factor: 1.40
+    portrait: 1
+    mInfo: 6bjxYu9UwalPvdM
+story: '欣昌錦鯉養殖場 added a new photo.'  
+message: 'SC_20170303_KOHAKU-20cm'  
+---
+
+SC_20170303_KOHAKU-20cm
+ 
+ 
+[//]: #story:
+欣昌錦鯉養殖場 added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/dn6S6ch.jpg"><img class="postImage" src="https://i.imgur.com/dn6S6chh.jpg" />  
+SC_20170303_KOHAKU-20cm  
+ </a>   
