@@ -1,0 +1,33 @@
+---
+layout: post
+title: '開始挑選的季節， ' 
+date: 2017-07-10T01:12:30+0000 
+categories: [] 
+media:
+  - id: BOmWUqI
+    name: g9kz6wkK4OtBRONkn9MviE45lw
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/BOmWUqI.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQYPNszOnXPyqRRiM74DPk99GFYOYKj7V4OTXNDrXAlpqtOmQWBwgPEHMrQQlGQR2hXkKZZxvXlh709nWOX54cq0DDAPv2Vt7mk9Q9KOzTPLEGMZKkki0l6K0RypzcGmzW5K9nkc4gY8AkYQmFnzzXLZ9NyiXB6NgzLBpf04mR1mrxjIm8XyQXppyiPnjGMXMGQikyNRyR4WztY5A
+    parentId: g9kz6wkK4OtBRONkn9MviE45lw
+    postId: nkLx6mXNZnIWPWnpYJr8ULQRQVz7nvf91jDgAZyQiwOEmvRBVnS9JoYN
+    factor: 1.78
+    portrait: 1
+    mInfo: 67KbKgNLvet2UlG
+message: '開始挑選的季節，  有需要的請歡迎  欣昌錦鯉場  雲林縣崙背鄉水尾村下街142-1號  電話;05-696-1728  Line ; ..'  
+---
+
+開始挑選的季節，  
+有需要的請歡迎  
+欣昌錦鯉場  
+雲林縣崙背鄉水尾村下街142-1號  
+電話：05-696-1728  
+Line : sckoi
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/BOmWUqI.jpg"><img class="postImage" src="https://i.imgur.com/BOmWUqIh.jpg" />  
+</a>   
