@@ -1,0 +1,80 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-19T01:46:18+0000 
+categories: [] 
+media:
+  - id: ZIwSKJJ
+    name: DVqW4R2LyLuxzq0vWNOyclqz56
+    description: 'SC_20170119_KIKOKURYU-22cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/ZIwSKJJ.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M0nQOPRMt5J5mWE2N7UAjE74BOoZfYmMX3AqgKfAzZ3Dwo04cg7MRBrNW7Uvx8QARwqDujVWwkwGpmUYVJm8ggRxfNMrx6J00wSgv7pGg7GGF1GGzj7nGnFX1GBEV3n1UnrV0poMAOs5xzBrRgY0hPy3gXmKQqHxpVqPQV1AFzwmXLBXg6
+    parentId: DVqW4R2LyLuxzq0vWNOyclqz56
+    postId: RJ4JQ4pV1OIXxD0vwjXBIMG72q4qvLCgXw3kZPWksE2N0lrLVMsVk
+    factor: 1.40
+    portrait: 1
+    mInfo: klYo6agIQHG5lq9
+  - id: YKJSNBK
+    name: AY6K4n2GvGFRWrkGrDB0uQqn3Z
+    description: 'SC_20170119_KUJAKU-34cm-M'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/YKJSNBK.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy3O4AXwM3c8X36P1w3rt6Q8KExBr8cXMwloxg09HrRVvBzOk2S3NNg6gXpgCxvV515JRDF8Q08nKQzGf186PANNjrHNgD2Kk33jSvLk0Xvk96tND63W5MpmHmk39R7lKwHr3PBV9GkEUB7JZ409qZFwnVJAq6BjImZPKpgPq8fE0g6zY7M5
+    parentId: AY6K4n2GvGFRWrkGrDB0uQqn3Z
+    postId: RJ4JQ4pV1OIXxD0vwjXBIMG72q4qvLCgXw3kZPWksE2N0lrLVMsVk
+    factor: 1.40
+    portrait: 1
+    mInfo: Uidlcc6DoRCdekJ
+  - id: uTcDDYC
+    name: BYr94g2JwJFn4DRPBJKWfWXM34
+    description: 'SC_20170119_KUJAKU-34cm-M'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/uTcDDYC.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy3O4AXwMBs8Mp5nKL5YI6Q8KExB9vcXMwloxg0BTrRm58QDYNu38YoymrBLcxKDYxzoYXCAy3yY5ryqs1EB2gRq8OTNP0VRWNv5TExRnwxLBLTNOk6LEo03CmLJjgQjmmsDx50rYQ16cBWY5OZl8VCwJz0ry10ksNnvm1WMB4uxkWG8zWK
+    parentId: BYr94g2JwJFn4DRPBJKWfWXM34
+    postId: RJ4JQ4pV1OIXxD0vwjXBIMG72q4qvLCgXw3kZPWksE2N0lrLVMsVk
+    factor: 1.40
+    portrait: 1
+    mInfo: F5vHqep4ORfYJnR
+  - id: usprs5v
+    name: g9pMz5GjwjTBR90GlzrECEA83Y
+    description: 'SC_20170119_KAWARIMONO-40cm-F'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/usprs5v.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1JpPLqx2Yc4mgYj1xnxcBoO27MY1zh5qnmoWlDlC8wwRRAOw2C2kDDXZ0Aofp87nw7qpvFjZPlO08NNurOG6xNNnjHx7YwNGVVOuYRNM7Yx4oiK5pJV7jrEC8QDGVKpP5HXB07O4nKrUlK8znynZESvK7ND1yqnIMvOPKyOYVTw9y2j9p5N
+    parentId: g9pMz5GjwjTBR90GlzrECEA83Y
+    postId: RJ4JQ4pV1OIXxD0vwjXBIMG72q4qvLCgXw3kZPWksE2N0lrLVMsVk
+    factor: 1.40
+    portrait: 1
+    mInfo: bzREunXeHELyDM6
+story: '欣昌錦鯉養殖場 added 7 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 7 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ZIwSKJJ.jpg"><img class="postImage" src="https://i.imgur.com/ZIwSKJJh.jpg" />  
+SC_20170119_KIKOKURYU-22cm  
+ </a>    
+
+<a href="https://i.imgur.com/YKJSNBK.jpg"><img class="postImage" src="https://i.imgur.com/YKJSNBKh.jpg" />  
+SC_20170119_KUJAKU-34cm-M  
+ </a>    
+
+<a href="https://i.imgur.com/uTcDDYC.jpg"><img class="postImage" src="https://i.imgur.com/uTcDDYCh.jpg" />  
+SC_20170119_KUJAKU-34cm-M  
+ </a>    
+
+<a href="https://i.imgur.com/usprs5v.jpg"><img class="postImage" src="https://i.imgur.com/usprs5vh.jpg" />  
+SC_20170119_KAWARIMONO-40cm-F  
+ </a>   
