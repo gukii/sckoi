@@ -1,0 +1,80 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-03-19T05:42:01+0000 
+categories: [] 
+media:
+  - id: F86kN0t
+    name: GVRXVgm3Qjt9gqp79rppskyrV3
+    description: 'SC_20170319_TANCHO-25cm'   
+    height: 530
+    width: 379
+    type: image/jpeg
+    link: https://i.imgur.com/F86kN0t.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzm4nYzFv2zWzNPJ1UpLMp8AwmDtNYjmJNOmmurPV42B3zEcz3jWP3wG9ILyrGDoYDPsvJ0oY6MkgCyARYrpgg6hXz4J31EARCEMX6APLAQTKB5B1kPnlfYProXB9MNurqMj35G21iM4p8EqVODTr7G87AW6BFAEmE8VBxGhYDXPB136Ghj3z58
+    parentId: GVRXVgm3Qjt9gqp79rppskyrV3
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr56f5Xw4QGloGCEBmGkWnKXtoK
+    factor: 1.40
+    portrait: 1
+    mInfo: 8bS21hWojlyYn1m
+  - id: KOzlzPH
+    name: N6OK6pw35qHpzpXYJlBDcrXyNA
+    description: 'SC_20170319_TANCHO-27cm'   
+    height: 531
+    width: 379
+    type: image/jpeg
+    link: https://i.imgur.com/KOzlzPH.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoVX1voCQVK0KkD0ZSJmPJWj6KBi1Y1M0LkpWhn8qzO9Mx2UXkmyBMqDXH3N3r5nQ9xSxmynNprx4hGNlR41oo9izK9pGl3B2sJxz0RrgRwsBj4owB59jsVk4NWv1KgiQMVkqAlBnCKJKAzw24KiVY9XOMy4jT5EZoq8K03tEPBZDlv5PcPXGlV
+    parentId: N6OK6pw35qHpzpXYJlBDcrXyNA
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr56f5Xw4QGloGCEBmGkWnKXtoK
+    factor: 1.40
+    portrait: 1
+    mInfo: XBpXsS6lhVGxbvC
+  - id: 8xc0IsA
+    name: 9E9AEOZ0L5hj1xgx4DGMcPKDLR
+    description: 'SC_20170319_TANCHO-25cm'   
+    height: 527
+    width: 376
+    type: image/jpeg
+    link: https://i.imgur.com/8xc0IsA.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLN2R6xNtMLYZywgW7Sg9XgG0ZmzhoAnBnR81KF1gpQJJmzVcLB28YovKycV8llzo2OYuPm3NK68mGFEYpLBQooMCGqokLp49xC7jvJ8mN8yF6mkgnY5KXhkPkmMnYO3S3Xkk6kEN5S57g8pL4RDI8gAQpZjOOhK2Rm8Rj2qu9JXlMDEQRH5rAon
+    parentId: 9E9AEOZ0L5hj1xgx4DGMcPKDLR
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr56f5Xw4QGloGCEBmGkWnKXtoK
+    factor: 1.40
+    portrait: 1
+    mInfo: OmYU65w0Z1e3ei9
+  - id: y3G098T
+    name: yvwAvMNLJEH3p3BN0JZvuNlBGr
+    description: 'SC_20170319_TANCHO-27cm'   
+    height: 529
+    width: 377
+    type: image/jpeg
+    link: https://i.imgur.com/y3G098T.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEOjk52OHKBzWoGk80i8o7850k9xS6P6xBlWwqu3DZGoxRrrTqBLB2LM72hnLVknqnmxirkpVER0q4F8PnYJprrmUVoKpw8jBgsJGKPgY7g2sOP2gKO4olcQRMLqVEnXiyAgLq0O04UWM4kEK9gDswQKrvw2EkHDQL3jyDE2UPOy1Jl0kBUA3Vv5
+    parentId: yvwAvMNLJEH3p3BN0JZvuNlBGr
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr56f5Xw4QGloGCEBmGkWnKXtoK
+    factor: 1.40
+    portrait: 1
+    mInfo: 7m7RLsI8uw6BS8s
+story: '欣昌錦鯉養殖場 added 4 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/F86kN0t.jpg"><img class="postImage" src="https://i.imgur.com/F86kN0th.jpg" />  
+SC_20170319_TANCHO-25cm  
+ </a>    
+
+<a href="https://i.imgur.com/KOzlzPH.jpg"><img class="postImage" src="https://i.imgur.com/KOzlzPHh.jpg" />  
+SC_20170319_TANCHO-27cm  
+ </a>    
+
+<a href="https://i.imgur.com/8xc0IsA.jpg"><img class="postImage" src="https://i.imgur.com/8xc0IsAh.jpg" />  
+SC_20170319_TANCHO-25cm  
+ </a>    
+
+<a href="https://i.imgur.com/y3G098T.jpg"><img class="postImage" src="https://i.imgur.com/y3G098Th.jpg" />  
+SC_20170319_TANCHO-27cm  
+ </a>   
