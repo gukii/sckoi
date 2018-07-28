@@ -1,0 +1,28 @@
+---
+layout: post
+title: '謝燦佐 added' 
+date: 2017-09-28T09:32:08+0000 
+categories: [] 
+media:
+  - id: ON6u0E6
+    name: EVRYoR9L4XcqvqB3ok2MtZXgy4
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ON6u0E6.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqggpwHO7jAVorgoUx28v8BpkECJqDq0PKQquDmA2OEDrNu7EVp4OZBEujPEwmj6oyuBW3QK4QkGURMXB0KnxmF5yjKZ3vMZSAlLPxGgA7c9NDm9Yj7lCOkk34QlLptZw0q33DkrTZl2x7x7NkIr1ROnWzOkTN0LMqZ8MvcJL4l9Q74jiwo9B9qzmGt7kjW08XkRhqzO24YYj8cyp
+    parentId: EVRYoR9L4XcqvqB3ok2MtZXgy4
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6v9F010JZLmlPc8Jm7zK7O3CpN
+    factor: 1.78
+    portrait: 0
+    mInfo: exmqPXFvPL2M9Qd
+story: '謝燦佐 added a new photo to 欣昌錦鯉養殖場's timeline.'  
+---
+
+謝燦佐 added a new photo to 欣昌錦鯉養殖場's timeline.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ON6u0E6.jpg"><img class="postImage" src="https://i.imgur.com/ON6u0E6h.jpg" />  
+</a>   
