@@ -1,0 +1,56 @@
+---
+layout: post
+title: '追求另類美  岡山' 
+date: 2017-09-19T23:50:21+0000 
+categories: [] 
+media:
+  - id: GKnYyxH
+    name: Q8ODEGnPqPtRWXow0lXEHrlRMP
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/GKnYyxH.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7wvqXYNE4HXPz6nYOAPIQnK8yMN0jUqZJ0W8zPpsWrrmM1QpzUAwAQLZDEDi5GzlPzARMIYKV836p1VsznEYQPPqOf0Q8gAEOO3FAQl8jA683snkpB2qql4CpDDDBY3XDcBXEq7kjJJfXyD8K6vADS01Q6JoMQkCK1jDWBjg9i8AOLM2P3Q
+    parentId: 2w9LBNxYAYtmwKqYZLwAU9W392
+    postId: qnPnKPgkZ7FvVyk8gKvlF3VlzNgNjWIA9zJKVJPltXNkvGo3NZIY1
+    factor: 1.33
+    portrait: 1
+    mInfo: lP7gjzkxsBYVq9e
+  - id: xCo1LK7
+    name: xrlJ4xnRNRiXAJjnjmzYHRXLRg
+    description: ''   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/xCo1LK7.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSW5wxKrnvVcorn9BLN5KfEnQXBj8BJhrAn0EY3KmCDPzMzM4M6f1nOE3Llp2FQ26PKDw01UG59zLmGRKhA1wp5xxOMhKl17LQ44xFL2gVKLg6QsYjloPxV4wh7o64WGyykSvV2kprL4RumR4vj59qkh6KNoEYApzSmNPoW4PROcgKGYQ6JBZ
+    parentId: 2w9LBNxYAYtmwKqYZLwAU9W392
+    postId: qnPnKPgkZ7FvVyk8gKvlF3VlzNgNjWIA9zJKVJPltXNkvGo3NZIY1
+    factor: 1.40
+    portrait: 1
+    mInfo: 3ggcnKUgMvbrLAX
+story: '欣昌錦鯉養殖場 is feeling challenged.'  
+message: '追求另類美  岡山桃太郎 3歲昭和 （桃太郎拍賣會）  喜歡請按❤️    廣島面迫 3歲昭和 （成田拍賣會）  喜歡請按😮    都..'  
+---
+
+追求另類美  
+岡山桃太郎 3歲昭和 （桃太郎拍賣會）  
+喜歡請按❤️  
+  
+廣島面迫 3歲昭和 （成田拍賣會）  
+喜歡請按😮  
+  
+都喜歡請按👍
+ 
+ 
+[//]: #story:
+欣昌錦鯉養殖場 is feeling challenged.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/GKnYyxH.jpg"><img class="postImage" src="https://i.imgur.com/GKnYyxHh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/xCo1LK7.jpg"><img class="postImage" src="https://i.imgur.com/xCo1LK7h.jpg" />  
+</a>   
