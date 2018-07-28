@@ -1,0 +1,29 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-04-02T01:52:16+0000 
+categories: [] 
+media:
+  - id: 2ocXeR7
+    name: wq0xK0qPKqtnGqPoYxyMU1GKYN
+    description: 'SC_20170329_GINRIN KOHAKU-14cm'   
+    height: 523
+    width: 373
+    type: image/jpeg
+    link: https://i.imgur.com/2ocXeR7.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoVX1v5IR2QWEVR7oCJmwDmJ1DJu1XwA82qQlhnKGE24ml4FXkADyZnzEUGzX9gvZn0unrlJrEKoYuGNlR41oo9izK9pGl3B2sJxz0RrgRwsBLXrzQXLMIL8MMKRxL4S6w1GJBQv6IByE3qqJRAfB6YNz96mKH5jRvxMZmpIEPBZ1A1EguPG3P2
+    parentId: wq0xK0qPKqtnGqPoYxyMU1GKYN
+    postId: 9NxNkxJEg1ujDWNkJLj9sY8RWPKPBRS2Wroy1gA8ixwk45pwVPiQ2
+    factor: 1.40
+    portrait: 1
+    mInfo: 6Tuh4sKiZuZVdpD
+story: '欣昌錦鯉養殖場 added 2 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/2ocXeR7.jpg"><img class="postImage" src="https://i.imgur.com/2ocXeR7h.jpg" />  
+SC_20170329_GINRIN KOHAKU-14cm  
+ </a>   
