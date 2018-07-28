@@ -1,0 +1,47 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-14T03:05:11+0000 
+categories: [] 
+media:
+  - id: LdnWRdK
+    name: zw6YGGvrJpUzPq2VYq28uolEDm
+    description: 'SC_20170109_GINRIN AKAKOI-15cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/LdnWRdK.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAzL4Qo8KPHKrZ57LQ8rFymLx7l6V8TzVxlErLyLIZQ8wpqKABhkXy0kpqMJUrvGv3J15EUKOm0n3207I7pwJRPPlYfE4yRPkggOc6WvqA6njku1NXxWn81Oc2AM6EnGXkcQkXQv1lrDhgPWQgDjJ9sNDQw3JjGocrAzn04z3OI4xK3RKN1N
+    parentId: zw6YGGvrJpUzPq2VYq28uolEDm
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzQS56RglQ5DQfyJ5gZ0mwXcRp
+    factor: 1.40
+    portrait: 1
+    mInfo: HpGudFZW3cnsLUW
+  - id: fBC7YF3
+    name: MVZWppwkljIJwl6V2vBzUQ4KDZ
+    description: 'SC_20170109_GINRIN TAMAGO GOI-17cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/fBC7YF3.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYo083pvKoUEGwrzKR1Eh31LwlYqlou87vAOELGmhDqqLElMprH7wKm3MLzMCKQ0Exw11RSpE6G6y7yzcWvAgVrr0NtvW18jg006Fp6Y1BpYvyTW2p5Lvl3jcr0WoMKLqlHKZ775LEygH0pvk0WvpRTmAWDEQr18SM672qB7xmTOvN9pPB20
+    parentId: MVZWppwkljIJwl6V2vBzUQ4KDZ
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzQS56RglQ5DQfyJ5gZ0mwXcRp
+    factor: 1.40
+    portrait: 1
+    mInfo: 3IhlPcZNgHhdDPP
+story: '欣昌錦鯉養殖場 added 7 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 7 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/LdnWRdK.jpg"><img class="postImage" src="https://i.imgur.com/LdnWRdKh.jpg" />  
+SC_20170109_GINRIN AKAKOI-15cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/fBC7YF3.jpg"><img class="postImage" src="https://i.imgur.com/fBC7YF3h.jpg" />  
+SC_20170109_GINRIN TAMAGO GOI-17cm  
+ </a>   
