@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Omosako K' 
+date: 2017-10-19T02:43:44+0000 
+categories: [] 
+media:
+  - id: Uy5cKjw
+    name: KV6Jw31AEZfk6QVRMp1wHpXMG0
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/Uy5cKjw.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrEJN0TXR5n9wkyyHyG6n8kJJ9FV6VpjPvkMFPkKq6ZZRXCqQkR0wnvXswx9P80Q9kC89NYK76gxH35pAn960LINRqzgRnEjt2EQp80RrvuDAyvlr6BBUDKN9DoyBRF7lmzrR5Lkf37y0DXxZgfmw2386NvlS46RVlgZyWTDlv78gYNEiol57Lkz82sV1RgYXgY1f9AOr375PlcQxZ
+    parentId: KV6Jw31AEZfk6QVRMp1wHpXMG0
+    postId: 9NxNkxJEg1ujDWNkJLj9sY8RWPKPpKI6RN32D5GOtxYjQvqA2KFQy
+    factor: 1.78
+    portrait: 1
+    mInfo: 9VtLXct3QL3e4He
+message: 'Omosako Koifarm   Kujaku 2years Female'  
+---
+
+Omosako Koifarm   
+Kujaku 2years Female
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Uy5cKjw.jpg"><img class="postImage" src="https://i.imgur.com/Uy5cKjwh.jpg" />  
+</a>   
