@@ -1,0 +1,63 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-04-10T02:59:00+0000 
+categories: [] 
+media:
+  - id: Z5VgYpH
+    name: 7B9MRB5WX7tYAJ45Yj75cqG59B
+    description: 'IKI_20170410_Maruhiro_GINRIN SORA GOI-45cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/Z5VgYpH.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDlyzP6RAwhoEDl9xqXzcypVZDzVv7TLvKkjAnArTloy52zzYOTprK3w4l8NtLpl3ZxKy2skXynWDo7DFOKmg8ppRVsR2W8pOooVuklP5NkPPBfVng6A31DEIojlBnLpJ2I6WQMpq7N7i93111DL6qfA1p6YnO0nuJ0DWQoDEgfqVVY5xEj5
+    parentId: 7B9MRB5WX7tYAJ45Yj75cqG59B
+    postId: Znln2lA90YFY0q851rY2twAokxQxRkIyl4lqvVOmuZQ77mgrqgHBl
+    factor: 1.40
+    portrait: 1
+    mInfo: NYjOR5cQXNrZiF5
+  - id: 4CNTNRi
+    name: m9qk59oMyVhqjrBVpWr0tQx9q3
+    description: 'IKI_20170410_Maruhiro_SHUSUI-48cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/4CNTNRi.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmoE9NuM8VP7n6pXcgAMPMX7q3s9RKpE9J8oIxQpoBGZBYHx7j5PM5LOhEXVN54DELU91Q5v8M6GIRnlB6Vwn0CLxAOyjWO5iGpvmPYvYGHpr7xAXAy1SyD5M732DOSxQ1n3PBVNtknlV3JzynsLYqL8qmX2tPz9QjzKM1iY8gqr7g8Msr486mJ6xGiVy3nWj6qMtDoW8BP
+    parentId: m9qk59oMyVhqjrBVpWr0tQx9q3
+    postId: Znln2lA90YFY0q851rY2twAokxQxRkIyl4lqvVOmuZQ77mgrqgHBl
+    factor: 1.40
+    portrait: 1
+    mInfo: jCzMnATDCgv8Xmd
+  - id: GfW2jmx
+    name: AY6rpY5917c5NkK6Q1D3sQn89n
+    description: 'IKI_20170410_Wada和田_GINRIN ASAGI-45cm'   
+    height: 720
+    width: 512
+    type: image/jpeg
+    link: https://i.imgur.com/GfW2jmx.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217NN9ZhgOnykGYKGt2vzqzYw1EtB0QZrwBP8hZEYzDGXJyUDlKlZ98oBSw8MWwLDX2Hvn6gNZKzxHzAWWoxJqRIYMV4Gpv3nfLMwZklE75SQBpKQGVnXiP55VkoOrjuWZ0NwwMOzF3xwJqm01Jc8LYyPREDRhoqZNzmoAlf7vpxxGqRjSGW07k77GAiK9VM7Dpv0fowy5lGk6JHW5
+    parentId: AY6rpY5917c5NkK6Q1D3sQn89n
+    postId: Znln2lA90YFY0q851rY2twAokxQxRkIyl4lqvVOmuZQ77mgrqgHBl
+    factor: 1.41
+    portrait: 1
+    mInfo: WBuTNsIsWAYhPaE
+story: '欣昌錦鯉養殖場 added 3 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Z5VgYpH.jpg"><img class="postImage" src="https://i.imgur.com/Z5VgYpHh.jpg" />  
+IKI_20170410_Maruhiro_GINRIN SORA GOI-45cm  
+ </a>    
+
+<a href="https://i.imgur.com/4CNTNRi.jpg"><img class="postImage" src="https://i.imgur.com/4CNTNRih.jpg" />  
+IKI_20170410_Maruhiro_SHUSUI-48cm  
+ </a>    
+
+<a href="https://i.imgur.com/GfW2jmx.jpg"><img class="postImage" src="https://i.imgur.com/GfW2jmxh.jpg" />  
+IKI_20170410_Wada(和田)_GINRIN ASAGI-45cm  
+ </a>   
