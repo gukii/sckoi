@@ -1,0 +1,83 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-02T08:26:02+0000 
+categories: [] 
+media:
+  - id: VucgZ3g
+    name: LVZWPY21X9S3r0PPZZnpujx6AB
+    description: 'SC_20170102_SANKE-17cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/VucgZ3g.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPn1WZ1qgqf9ZPqLNl4kHlMwj9lJQoUY12GllkG6iQwqLqlZmPIvYM8Qqkr5s6VLE10QARIN4Ylkj4qrTq6QxOGGmyuXzKRwrZZGSBW5pnB17OiWJEZNAwWvHLKO38YBYOiQp3k5rg9AiNo7x6vKDMupnWyxgYojhmk5Wj35p2cQPWBV88vV
+    parentId: LVZWPY21X9S3r0PPZZnpujx6AB
+    postId: 9NxNkxJEg1ujDWNkJLj9sY8RWPKPBVu2g60G3mPkixYZM8Q8wACQK
+    factor: 1.40
+    portrait: 1
+    mInfo: Ld43hE49LPUFZOY
+  - id: eCGTKiC
+    name: DVqW0Y2ZMkSxzZqYWJ7Nul9OGN
+    description: 'SC_20170102_KAWARIMONO-22cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/eCGTKiC.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8NvBvq19Rf1pnnqxJxmSg6QPLgWvnhRo8EOy2LDFpVAVADYk2tQBOO9j2XNIMz8D5XZRQcPY9X3EZrGIymq9E88zlf5KZA8E44qsVmAOJV1K9UW7Er5L575F2k15L57X2i1DVjJ3EN2HXR4AXpwDniA1mQwoMM4S1Z4MWE4QlU9E8P4pqE6
+    parentId: DVqW0Y2ZMkSxzZqYWJ7Nul9OGN
+    postId: 9NxNkxJEg1ujDWNkJLj9sY8RWPKPBVu2g60G3mPkixYZM8Q8wACQK
+    factor: 1.40
+    portrait: 1
+    mInfo: 8yxO7rdgCneG5vi
+  - id: Po5zwVr
+    name: g9pMkxGDBJUBRJ92Kg5OiE8zJE
+    description: 'SC_20170102_DOITSU AKA MATSUBA-25cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/Po5zwVr.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjvzXv1Bycw39B1jwv8fk8RoVkWxJhPgx5GGl5qFmv5Vo0mqjFYVgy8v3ENcM1K292YZqSQEpKXyp5MIgvRqlmm0KFWnrpKN55PuJY79NJ3BAHqj7QWyyOwS962zP8n9GiyKzjJMqqpHgXE8Qq7yQi8jop0nRWxuOB630L65jSlBWmyJv52
+    parentId: g9pMkxGDBJUBRJ92Kg5OiE8zJE
+    postId: 9NxNkxJEg1ujDWNkJLj9sY8RWPKPBVu2g60G3mPkixYZM8Q8wACQK
+    factor: 1.40
+    portrait: 1
+    mInfo: 88mKrbeNrE8eWIk
+  - id: RW6Ci5Z
+    name: MVZW9E2KY8SJ1BDNkvk3fQ4KNW
+    description: 'SC_20170102_KOHAKU-15cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/RW6Ci5Z.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjv8v3kQqswro1V7ZYrfk8RoVkW4ytPgx5GGl5kCmvVqO5DzRhDm34LnoyATMYoNpAMlzHK2LKpV2JPFgvRqlmm0KFWnrpKN55PuJY79NJ3rASz9yOw9gyRF5pAoKmOAqSZApElK7WPi87p1yr2LjIELgNRo6qWIOB630L65jSlGzo54KKl
+    parentId: MVZW9E2KY8SJ1BDNkvk3fQ4KNW
+    postId: 9NxNkxJEg1ujDWNkJLj9sY8RWPKPBVu2g60G3mPkixYZM8Q8wACQK
+    factor: 1.40
+    portrait: 1
+    mInfo: 6HfQ2fXTM7mDOtQ
+story: '欣昌錦鯉養殖場 added 5 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 5 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/VucgZ3g.jpg"><img class="postImage" src="https://i.imgur.com/VucgZ3gh.jpg" />  
+SC_20170102_SANKE-17cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/eCGTKiC.jpg"><img class="postImage" src="https://i.imgur.com/eCGTKiCh.jpg" />  
+SC_20170102_KAWARIMONO-22cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/Po5zwVr.jpg"><img class="postImage" src="https://i.imgur.com/Po5zwVrh.jpg" />  
+SC_20170102_DOITSU AKA MATSUBA-25cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/RW6Ci5Z.jpg"><img class="postImage" src="https://i.imgur.com/RW6Ci5Zh.jpg" />  
+SC_20170102_KOHAKU-15cm  
+ </a>   
