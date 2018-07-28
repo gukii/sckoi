@@ -1,0 +1,137 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2016-12-23T01:08:04+0000 
+categories: [] 
+media:
+  - id: 0xAf5ig
+    name: VVvnQRPDy2h8MXz0z0BNcQA5M5
+    description: 'SC_20161222_KOHAKU-20cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/0xAf5ig.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVo54y4Q2OsRQVBG3OvNsN1qkj0KPRco6MLJZyVNCzMLPEQAZnHZ4q1DZZ1MuNGo26qjMrcP496QDV9quOQ7XPMMJ9sj58V47DDNcA4W9PAW3oI3NKl4g0XgHmW0O7wXqGS40Lv6vK8NIJDknAnkBNc9kOz331A8SrOjLgkj8BSmDWrx4gO7
+    parentId: VVvnQRPDy2h8MXz0z0BNcQA5M5
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: bTh2xkqu8LYt4qO
+  - id: aIv1yAu
+    name: J98WQBqnjKto1YqMJgRzCv7M8w
+    description: 'SC_20161222_KAGE SHOWA-21cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/aIv1yAu.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYo022QPVKuXNWz0M0mYIOA3ZGmGzMiMwY3oYy64iDqqYX3zW9U7gYvPB8rrFKGEyNRqwDu7JQYOwp4ZTWvAgVrr0NtvW18jg006Fp6Y1BpYyluWkkkxM3oPcrPXJJJl5JsKAx57zxnMiBpOryAVOkURVl59GnE1HM672qB7xlSG0opZm9vl
+    parentId: J98WQBqnjKto1YqMJgRzCv7M8w
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: yNYgb9Qwr30toSX
+  - id: IPJ7h6O
+    name: VVvnQRPDy2h8M1Ool7qBiQjPEy
+    description: 'SC_20161222_KOHAKU-20cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/IPJ7h6O.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA2D4kVjMXi6VOjMrZJDuyXG5p0DEDHERnrGnXgptOGjwrWwqpT6kvgAXw3OI1xPJnN2LxIKwkY7o8YAuoQJgprrB5FLKZOV4xxJC95op79vNRigB0gxoRmDtXrZp0Rq69fg93v4zK2EIXYBzO8g96fLPnEWrr8Ysgvk72okzxtMqKG93O02
+    parentId: VVvnQRPDy2h8M1Ool7qBiQjPEy
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: 3cejsuM4xt9nPDc
+  - id: SobbzhC
+    name: j9Y681qwVgt03rY7grDkF14mJA
+    description: 'SC_20161222_HI UTSURI-25cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/SobbzhC.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVo54yrYVGfPkKBL65wYsN1qkjzQ97Hop47D4PRpFzMMnWYMvxS3q3yqREEQUNkj8WYgj1fPOqw8N9R6fOQ7XPMMJ9sj58V47DDNcA4W9PAoKxinjJB8rzY9IGDmqk8y6jsxMQgXnADZt81ZYWBwgXT9GEx7oMP7UrOjLgkj8AIM46m32Omo
+    parentId: j9Y681qwVgt03rY7grDkF14mJA
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: RB1RdVVnZ85ZYFj
+  - id: VKbXQZH
+    name: RVlj1NoyrKhXNPXABrVJsqp4OY
+    description: 'SC_20161222_KOHAKU-20cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/VKbXQZH.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjvzWJjY7hw2KOOQnELIk8x2GpMv4HPko9qgrw4tmvvA12mxAtD4YWzjQZXholRy86mQwTQzO2Ly7pPIgvRqlmm0KFWnrpKN55PuJY79NJ3Byiz9Zv1KOOot93JLj5QMkCZkVnWVM2ySyZLmAP3YAf8D2rBlp1miOB630L65jSlBW5YvZ0r
+    parentId: RVlj1NoyrKhXNPXABrVJsqp4OY
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: D8mbcnOyd3PDWzP
+  - id: LJeRtBo
+    name: 1v634LrozpcXk42yOrMJIYKLkN
+    description: 'SC_20161222_HI UTSURI-24cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/LJeRtBo.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DYBlyzmZuK63O8wZ4nhpWLZVm9YmtQ1Q534mWDSQoLgVEVjPfN5YOqyL9xUk0WXgQOmJCYrn6nwQXzc4Pr9BKKV1S7gxm2q55JT75pBN7Gwytj5z9jx7oYTRg6X2YGJDiB6Y6vvAP7FQ02LDMENPfW4mlXNEROIYq30Gm3E6C4wq1jkD40
+    parentId: 1v634LrozpcXk42yOrMJIYKLkN
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: 3feoNY7xqrbrhKc
+  - id: xHk350y
+    name: k02X71ZxVjuvL9VK2KYlCJz28X
+    description: 'SC_20161222_KOHAKU-21cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/xHk350y.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L582x1qu68m7KOYxnTp4KoY00PNhwxLRqkzYXI7W3zpxJwDcJEJqZVW3EFD26KvmE9vSZgVjP37qZHE4Jm3lNPwT3AQ6ORYzyTXqLyB22oxt3jkqKEBBnIlo4y3lnWWimB2gPmgpYf02gD1EY1nfzPgp2QZjMIqnXx7KGyOfmNVWpZZgVSGlqgKYqOPSJKKNwlJZ2
+    parentId: k02X71ZxVjuvL9VK2KYlCJz28X
+    postId: 43p31pAyLQhxq29BZMx3C47Z2V8VzqI56gwzVoWzfyqG2gK4los12
+    factor: 1.40
+    portrait: 1
+    mInfo: fCmgEM5krbnmWhX
+story: '欣昌錦鯉養殖場 added 31 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 31 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/0xAf5ig.jpg"><img class="postImage" src="https://i.imgur.com/0xAf5igh.jpg" />  
+SC_20161222_KOHAKU-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/aIv1yAu.jpg"><img class="postImage" src="https://i.imgur.com/aIv1yAuh.jpg" />  
+SC_20161222_KAGE SHOWA-21cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/IPJ7h6O.jpg"><img class="postImage" src="https://i.imgur.com/IPJ7h6Oh.jpg" />  
+SC_20161222_KOHAKU-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/SobbzhC.jpg"><img class="postImage" src="https://i.imgur.com/SobbzhCh.jpg" />  
+SC_20161222_HI UTSURI-25cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/VKbXQZH.jpg"><img class="postImage" src="https://i.imgur.com/VKbXQZHh.jpg" />  
+SC_20161222_KOHAKU-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/LJeRtBo.jpg"><img class="postImage" src="https://i.imgur.com/LJeRtBoh.jpg" />  
+SC_20161222_HI UTSURI-24cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/xHk350y.jpg"><img class="postImage" src="https://i.imgur.com/xHk350yh.jpg" />  
+SC_20161222_KOHAKU-21cm  
+ </a>   
