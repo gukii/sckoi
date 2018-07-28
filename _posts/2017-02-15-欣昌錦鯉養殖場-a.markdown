@@ -1,0 +1,46 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-02-15T03:28:25+0000 
+categories: [] 
+media:
+  - id: Hl496MU
+    name: wq0gPwvqPPUn2nq6o5mvs1yRvr
+    description: 'SC_20170215_SHOWA-32cm'   
+    height: 609
+    width: 435
+    type: image/jpeg
+    link: https://i.imgur.com/Hl496MU.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWKMRw1t9lRZOXkZEiEB4kW5Ekkt181lQmMNpHQvXEr84O8iMl5D3qK9MI96EEll837CZKL9G0MrQcJYqwBvAAnCDLVqEmQNpUoDG97k27vT9L0L1xgr6u0nRYMjWlDTjzkngGrRrfwmW12VD09hqNoz60XZDH7PppWvpYxtQRlM341QmI9M9vA
+    parentId: wq0gPwvqPPUn2nq6o5mvs1yRvr
+    postId: AlJlvJRY1Nc58KlNxL52f43myQ1QJPUDr04VV4goTR3E3QEq2AFjW
+    factor: 1.40
+    portrait: 1
+    mInfo: YH4uqCntzP0Bg1n
+  - id: wyjT1ri
+    name: LVZBNzwVNNC2724NZK5qCjx03o
+    description: 'SC_20170215_KOHAKU-29cm'   
+    height: 611
+    width: 436
+    type: image/jpeg
+    link: https://i.imgur.com/wyjT1ri.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14VkvlyfvRq34RRK0HoKkGJpoGGTK9KwvqG0AH4v8WDZBBqhgyGZB5KMyHyWDJMzE5LS45AlK1JqliKx1YmVqqWh0Ox74nVWwUQ1myxVlxNuzJERLz4JZH7RzJWAxzKtLQn95gqJ1tOZAD8Xm9mcRgoM0Bp6EC9yVBmrypmuPBvz2NDYqFrDwpr
+    parentId: LVZBNzwVNNC2724NZK5qCjx03o
+    postId: AlJlvJRY1Nc58KlNxL52f43myQ1QJPUDr04VV4goTR3E3QEq2AFjW
+    factor: 1.40
+    portrait: 1
+    mInfo: zt6u8tczdsFWERf
+story: '欣昌錦鯉養殖場 added 3 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Hl496MU.jpg"><img class="postImage" src="https://i.imgur.com/Hl496MUh.jpg" />  
+SC_20170215_SHOWA-32cm  
+ </a>    
+
+<a href="https://i.imgur.com/wyjT1ri.jpg"><img class="postImage" src="https://i.imgur.com/wyjT1rih.jpg" />  
+SC_20170215_KOHAKU-29cm  
+ </a>   
