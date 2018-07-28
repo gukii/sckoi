@@ -1,0 +1,80 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-02-27T01:44:44+0000 
+categories: [] 
+media:
+  - id: oenk2jn
+    name: VVvZ8J6vYAF8vXLV894jTQjvDj
+    description: 'SC_20170223_GOROMO-13cm'   
+    height: 607
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/oenk2jn.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6Kl8Mo5nTD480ymW9AInAK0GjAJkhmPLRVm6y4s7OO39gO6nTol4MZJ4znHD2v7x2jNQukzL5kDGGYfw3VrKQllvU56yo9KWQrfv5J10640lswx7KjDAYyiK0RqKvOGmclKD529AxqU0X3jKlyPLcKDvrvnkXMsD0PrWOP2JSAvPVW4ngzURXGQG
+    parentId: VVvZ8J6vYAF8vXLV894jTQjvDj
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UVlRpjWKVACon1YpNovXHBQ
+    factor: 1.40
+    portrait: 1
+    mInfo: N2XozPfgvswetjV
+  - id: 98qLzbs
+    name: k02MJ6E2y8FvLRkpQ7YqhJjKE9
+    description: 'SC_20170223_DOITSU KUJAKU-17cm'   
+    height: 608
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/98qLzbs.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14Vkvl2fzJZv49NWEToKkxrBKNVuKBmnq8PvYHEqZgBKpWyilnn7kkNEEuykmL0NBL2C48V3o6GnlTKx1YmVqqWh0Ox74nVWwUQ1myxVlxNuzJ8nzlLEmt7EXGv7B2jCm14Nm9gr4cOJpJXQ2BViLpAAG6NDqS9yJgvwErgsPBvz2NkGLHrDZAE
+    parentId: k02MJ6E2y8FvLRkpQ7YqhJjKE9
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UVlRpjWKVACon1YpNovXHBQ
+    factor: 1.40
+    portrait: 1
+    mInfo: lnszunJpfxVh1zD
+  - id: BWolD3z
+    name: O0g91J4gOMFkPgNlVqpoHPNpL7
+    description: 'SC_20170223_DOITSU TANCHO KUJAKU-17cm'   
+    height: 609
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/BWolD3z.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L5O6jM0u4VXYBAP2vSoER3O8EP5uwv2P9ZAOLf3QJXv4DmXiNMp62Y3wlUrx71KKW89sBKvRmx2kYFZnqE5mAAof9rv3ZXQoYUY0W9BLQBgfMyYllo4wQsq0Nlg8DvwFApDV6APrpSprBjAzR8LFzD3pl6PjZiq4vr7gwwNim835YXKEBf21gBz
+    parentId: O0g91J4gOMFkPgNlVqpoHPNpL7
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UVlRpjWKVACon1YpNovXHBQ
+    factor: 1.40
+    portrait: 1
+    mInfo: cZAL8hesFSgKwAk
+  - id: FXpcRfu
+    name: 8D3YwX43k1TgJAXNv9LYsoZp1E
+    description: 'SC_20170223_DOITSU KUJAKU-23cm'   
+    height: 608
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/FXpcRfu.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo29nkVKI4QqL3RDPgTwLMrmvLVPsjPWZEOqr9u8xxPM95MXCWELq8YNNRcJNKB67OZjH8kQE5rKxAt7GD04ZMM9CryLQpRlx8C6gr49GA9pFY5vw4DNYKS9oRQ6Po9GTvOQVryym4UjLBgYGjgpiYkKzY5R3LilMzKvAj37ijw0OlYK8oIL8R4X
+    parentId: 8D3YwX43k1TgJAXNv9LYsoZp1E
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UVlRpjWKVACon1YpNovXHBQ
+    factor: 1.40
+    portrait: 1
+    mInfo: tfsgJ5QYSSXsqox
+story: '欣昌錦鯉養殖場 added 16 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 16 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/oenk2jn.jpg"><img class="postImage" src="https://i.imgur.com/oenk2jnh.jpg" />  
+SC_20170223_GOROMO-13cm  
+ </a>    
+
+<a href="https://i.imgur.com/98qLzbs.jpg"><img class="postImage" src="https://i.imgur.com/98qLzbsh.jpg" />  
+SC_20170223_DOITSU KUJAKU-17cm  
+ </a>    
+
+<a href="https://i.imgur.com/BWolD3z.jpg"><img class="postImage" src="https://i.imgur.com/BWolD3zh.jpg" />  
+SC_20170223_DOITSU TANCHO KUJAKU-17cm  
+ </a>    
+
+<a href="https://i.imgur.com/FXpcRfu.jpg"><img class="postImage" src="https://i.imgur.com/FXpcRfuh.jpg" />  
+SC_20170223_DOITSU KUJAKU-23cm  
+ </a>   
