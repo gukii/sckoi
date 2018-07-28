@@ -1,0 +1,29 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-02-14T07:40:43+0000 
+categories: [] 
+media:
+  - id: TzcrMFa
+    name: EVqQDp7BvZiqD1E6jnBYhZJN0y
+    description: 'SC_20170214_KINRIN HOHAKU-29cm'   
+    height: 595
+    width: 424
+    type: image/jpeg
+    link: https://i.imgur.com/TzcrMFa.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3JprKRouNRPrRRo6YCo12XWGzD5iM5gRoLWOGF80NVAvMRjTXp6X8ZB1Vs0KD9Rq5mMH2NDK5PP1zu4l5Z8jggOCMq6Qx9B1ZS2mvVXzDX8u3q6wqjBOLcpG6MrP7WEuAMj2kR2l7H3lxrE7Pw2TVYn2yGy4yIBDMoY7B80CErmA6XJr4F48WwR
+    parentId: EVqQDp7BvZiqD1E6jnBYhZJN0y
+    postId: qnPnKPgkZ7FvVyk8gKvlF3VlzNgNo4ix7Kkvp6pDUXYyYv4Bw2cYq
+    factor: 1.40
+    portrait: 1
+    mInfo: 3M5Gn8gqSkUVB1T
+story: '欣昌錦鯉養殖場 added 7 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 7 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/TzcrMFa.jpg"><img class="postImage" src="https://i.imgur.com/TzcrMFah.jpg" />  
+SC_20170214_KINRIN HOHAKU-29cm  
+ </a>   
