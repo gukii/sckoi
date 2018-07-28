@@ -1,0 +1,45 @@
+---
+layout: post
+title: '展會通知：  親愛' 
+date: 2017-09-24T01:29:41+0000 
+categories: [] 
+media:
+  - id: fM3j5fS
+    name: RVLQ8xP394cXRpzzMLljTqRXzA
+    description: '展會通知;  親愛的魚友，小魚特惠執骰子活動，魚友反應熱烈，感謝大家的支持！    截至今天有部..'   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/fM3j5fS.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREZQE8jyBIZO4KoBNR0f4rDGv5oWETr0r6My7ZEtDwgAOKGA8TqnjzyK5NpSvwB43l7w3IABNgZrjk5fvrE5X348YfXZggMLPB3uLv0oVpp6PCVgEALw22NFRrNWBRN7GiB09GN4pvkuPE2o3xPkXUA5KrlgQZLSqZ0RBBMWKcpgB9QoL84UzgW02mWRLhjlvjxgK2v
+    parentId: RVLQ8xP394cXRpzzMLljTqRXzA
+    postId: jKGKzGX98ZC0V4GnzK0PF9ABZ1G14pi70j1x05DqFnYGG8mLx0hMO
+    factor: 1.33
+    portrait: 0
+    mInfo: 8NS6vH1Fcohkiub
+message: '展會通知;  親愛的魚友，小魚特惠執骰子活動，魚友反應熱烈，感謝大家的支持！    截至今天有部分魚友反應，小魚帶回家後狀況不佳甚至有暈..'  
+---
+
+展會通知：  
+親愛的魚友，小魚特惠執骰子活動，魚友反應熱烈，感謝大家的支持！  
+  
+截至今天有部分魚友反應，小魚帶回家後狀況不佳甚至有暈倒不省人事的！  
+  
+經過我們現場仔細查驗，發現同一批小魚待在漁場的狀況優良、從漁場銷售出去的也頭好壯壯，只有從展場打包帶回去的會有這種狀況。  
+  
+排除很多既有經驗分析後，可能是小魚不適應展場的水質，所以部分較嬌弱的小魚會有不良反應。  
+  
+如果魚友帶回的魚兒有狀況，請與我們聯繫，我們會安排退款或換魚，但是本次展場上的魚兒將不再銷售，改為展示。  
+  
+為了回饋魚友大老遠跑一趟來支持我們的熱心，每天前70位魚友仍然可以參加執骰子拿折價優惠的活動！ 我們現場登記後，會作為往後在欣昌消費的折扣。  
+  
+再次感謝您的支持！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/fM3j5fS.jpg"><img class="postImage" src="https://i.imgur.com/fM3j5fSh.jpg" />  
+展會通知：
+親愛的魚友，小魚特惠執骰子活動，魚友反應熱烈，感謝大家的支持！
+
+截至今天有部..  
+ </a>   
