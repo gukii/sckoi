@@ -4,45 +4,6 @@ title: '欣昌錦鯉養殖場 a'
 date: 2017-03-05T02:36:05+0000 
 categories: [] 
 media:
-  - id: a1nbfcJ
-    name: 5z7w4oVOO7SlGgBYkp8XhxB6BX
-    description: 'SC_20170305_SHOWA-27cm'   
-    height: 530
-    width: 379
-    type: image/jpeg
-    link: https://i.imgur.com/a1nbfcJ.jpg
-    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1Ym6vPqlfxDvm5JxyrsR3PlDnGG3fv9zEVJB3LTv67jVBYmzClql1VBB9yCg14KJpoKGS5Qq8VgW4VHmARp2BNN7SPx03rOAnqCvyMGPmjP8sJAqYJ9WLPUjyRpV15WvUrx1plZX5YixyK1gZW8BcXQGzmv6oRfQYDVzyJOBF8vOjlgGZOUgr5oL
-    parentId: 5z7w4oVOO7SlGgBYkp8XhxB6BX
-    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
-    factor: 1.40
-    portrait: 1
-    mInfo: 5i7f6rHLke9Ryuu
-  - id: 38QAKyC
-    name: 5z7w4oVOO7SlGZ4MWD7jhxB6kq
-    description: 'SC_20170305_KOHAKU-28cm'   
-    height: 533
-    width: 381
-    type: image/jpeg
-    link: https://i.imgur.com/38QAKyC.jpg
-    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3JprKQ9tNr7qYQk2yio19WVqmm1FM53j7oEK8FB2PZy672pUy0r4VlyrpFVPJ36QRPOhyERYKZ8o1H4l5Z8jggOCMq6Qx9B1ZS2mvVXzDX8u3E24q82g8f8LO5GEO7QuVB5mGypOAIYyAQOzE9KIMYQV5Kp6BcByLjV7wXZHErmA6XLplF4zEmQ
-    parentId: 5z7w4oVOO7SlGZ4MWD7jhxB6kq
-    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
-    factor: 1.40
-    portrait: 1
-    mInfo: 3qXv2gxfTEkV0IE
-  - id: TumaMcS
-    name: 6AWxNpGPPWFWKrp89OxEFxNgpr
-    description: 'SC_20170305_HI UTSURI-31cm'   
-    height: 523
-    width: 373
-    type: image/jpeg
-    link: https://i.imgur.com/TumaMcS.jpg
-    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mAEw9GH0WogQOKNPCjGQ3R2PPGS50qJj1PvRhvxA7KwLm7HY0nBNLJ69uo092p1YwWtRPKZgqzl9f439YDGmmoCqnDjm465VU3q1Q8Jo8lCl2G3rOyYXijWzyWwYpxi1GA93QzKmCX1onQvkAwcln9YZPzO1spEpKp3q5Ot3LpgE9EZPsE0vll
-    parentId: 6AWxNpGPPWFWKrp89OxEFxNgpr
-    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
-    factor: 1.40
-    portrait: 1
-    mInfo: NKJmMXXZhatJWt8
   - id: pwquu0K
     name: m9q0jW8rrqSMnjEYBN12fQ02KB
     description: 'SC_20170305_HI UTSURI-29cm'   
@@ -56,6 +17,110 @@ media:
     factor: 1.40
     portrait: 1
     mInfo: qYomTdIF6clm2qg
+  - id: TumaMcS
+    name: 6AWxNpGPPWFWKrp89OxEFxNgpr
+    description: 'SC_20170305_HI UTSURI-31cm'   
+    height: 523
+    width: 373
+    type: image/jpeg
+    link: https://i.imgur.com/TumaMcS.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mAEw9GH0WogQOKNPCjGQ3R2PPGS50qJj1PvRhvxA7KwLm7HY0nBNLJ69uo092p1YwWtRPKZgqzl9f439YDGmmoCqnDjm465VU3q1Q8Jo8lCl2G3rOyYXijWzyWwYpxi1GA93QzKmCX1onQvkAwcln9YZPzO1spEpKp3q5Ot3LpgE9EZPsE0vll
+    parentId: 6AWxNpGPPWFWKrp89OxEFxNgpr
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: NKJmMXXZhatJWt8
+  - id: 38QAKyC
+    name: 5z7w4oVOO7SlGZ4MWD7jhxB6kq
+    description: 'SC_20170305_KOHAKU-28cm'   
+    height: 533
+    width: 381
+    type: image/jpeg
+    link: https://i.imgur.com/38QAKyC.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3JprKQ9tNr7qYQk2yio19WVqmm1FM53j7oEK8FB2PZy672pUy0r4VlyrpFVPJ36QRPOhyERYKZ8o1H4l5Z8jggOCMq6Qx9B1ZS2mvVXzDX8u3E24q82g8f8LO5GEO7QuVB5mGypOAIYyAQOzE9KIMYQV5Kp6BcByLjV7wXZHErmA6XLplF4zEmQ
+    parentId: 5z7w4oVOO7SlGZ4MWD7jhxB6kq
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: 3qXv2gxfTEkV0IE
+  - id: a1nbfcJ
+    name: 5z7w4oVOO7SlGgBYkp8XhxB6BX
+    description: 'SC_20170305_SHOWA-27cm'   
+    height: 530
+    width: 379
+    type: image/jpeg
+    link: https://i.imgur.com/a1nbfcJ.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1Ym6vPqlfxDvm5JxyrsR3PlDnGG3fv9zEVJB3LTv67jVBYmzClql1VBB9yCg14KJpoKGS5Qq8VgW4VHmARp2BNN7SPx03rOAnqCvyMGPmjP8sJAqYJ9WLPUjyRpV15WvUrx1plZX5YixyK1gZW8BcXQGzmv6oRfQYDVzyJOBF8vOjlgGZOUgr5oL
+    parentId: 5z7w4oVOO7SlGgBYkp8XhxB6BX
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: 5i7f6rHLke9Ryuu
+  - id: 6JLS08m
+    name: LVZ1zm0xxZS3G3V03PypTjx6OZ
+    description: 'SC_20170305_SHOWA-31cm'   
+    height: 522
+    width: 373
+    type: image/jpeg
+    link: https://i.imgur.com/6JLS08m.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Gq3vWtnwRxkRvyJc6DvJwEkkDCDqDWzDVRZUygy3kB8ZETjQL0rvBonhBWJ2kAXQBTR2ApOgE08H9Grq7JQQMUEq7LXnZ3YUAjkEXgqXVclp0Xn7oxYH8q5gm3jz9sRoK9jPrMrh7J7pQEwnziXowr9XypNi18kY3L6pDfrWqGn6KokuY42B0
+    parentId: LVZ1zm0xxZS3G3V03PypTjx6OZ
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: 8ZhIi2svXWtxofQ
+  - id: rNoMknK
+    name: j9YgKW5ooYSOB9y1GvmpF1GVKj
+    description: 'SC_20170305_SANKE-26cm'   
+    height: 528
+    width: 377
+    type: image/jpeg
+    link: https://i.imgur.com/rNoMknK.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo29nkVKI4Q62M7OgATwLYo8B00Li6pKyM20lmuEBEM57G95urXpoRNnpkIJqMvWWgZMF84ZK4Mg5ZfRGxvrB8QQiXDBoX0ZOGfJE2OgpwRQCYkOZnoZpot9oWm29XBquL5lvDjLrWtjYolXw9jXs6XMwjkG7lcA9zOM4NX1tjkn9yKWzKcEz1
+    parentId: j9YgKW5ooYSOB9y1GvmpF1GVKj
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: d0rN9woBkLgLgZG
+  - id: jt6fs8R
+    name: m9q0jW8rrqSMgMXzJOm1FQYrXx
+    description: 'SC_20170305_SHOWA-31cm'   
+    height: 530
+    width: 379
+    type: image/jpeg
+    link: https://i.imgur.com/jt6fs8R.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6Kl8MoXgSDzmEknx9AhnAVPNX55AfvkvlxrKOAcB5BOrBZ0Ntol4MxJEV4uWPqrW5YrxHkjZ0A75EoHw3VrKQllvU56yo9KWQrfv5J10640lswxQA4AKlpfKkWYA1wXzuNDE9NvN2Pu0PK6BOqWmcKW21YxmqNSoR738qngBHAvPVrYzpzfR30A4
+    parentId: m9q0jW8rrqSMgMXzJOm1FQYrXx
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: uC4q8FX4TQ7y5ha
+  - id: LU8Cawy
+    name: 4y6v3nVNN6h8Dqkr187DiVJ78B
+    description: 'SC_20170305_SHOWA-27cm'   
+    height: 527
+    width: 376
+    type: image/jpeg
+    link: https://i.imgur.com/LU8Cawy.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WOPg65CXm9JP0QLAcV1k7Zyrr1fk8mQ9AkP8sQGrxkwnOxsq8gjqLozNh04Nyq0RBOtLgjDE5Y82Sg6V5A7NNnUW5AYm2LzoCgwxNQE2QDf4zGm66z64sALmDYl5A2CzwXPP4kQvtjXxGJBgL9S5P17R675vcXJ0vG00jGS0pLMAqDj3Fvw832
+    parentId: 4y6v3nVNN6h8Dqkr187DiVJ78B
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: R1qceFUnInRd36T
+  - id: tFj0BJ4
+    name: RVlKJvkEElSOLnKNE8kzFqRGRk
+    description: 'SC_20170305_KOHAKU-32cm'   
+    height: 529
+    width: 377
+    type: image/jpeg
+    link: https://i.imgur.com/tFj0BJ4.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L5O6jMNC4DAA5XjE3soE6pxDMMEFD8GvxYLJMU3RM9RgvoxiNL284nWrVurLGryWwYZcBxB9YXpJBFZnqE5mAAof9rv3ZXQoYUY0W9BLQBgfM9JAZqXoZSlmZo2KD48CDBm5NVpy7TpopYOnm5ytzPXPopyg6hqJqkOwknmHm835YjR0Zi2m6YW
+    parentId: RVlKJvkEElSOLnKNE8kzFqRGRk
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RkF0EX4lV2j4skpOrPRjq6cMB
+    factor: 1.40
+    portrait: 1
+    mInfo: YSjje6hilBDr7mt
 story: '欣昌錦鯉養殖場 added 9 new photos.'  
 ---
 
@@ -63,18 +128,38 @@ story: '欣昌錦鯉養殖場 added 9 new photos.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/a1nbfcJ.jpg"><img class="postImage" src="https://i.imgur.com/a1nbfcJh.jpg" />  
-SC_20170305_SHOWA-27cm  
- </a>    
-
-<a href="https://i.imgur.com/38QAKyC.jpg"><img class="postImage" src="https://i.imgur.com/38QAKyCh.jpg" />  
-SC_20170305_KOHAKU-28cm  
+<a href="https://i.imgur.com/pwquu0K.jpg"><img class="postImage" src="https://i.imgur.com/pwquu0Kh.jpg" />  
+SC_20170305_HI UTSURI-29cm  
  </a>    
 
 <a href="https://i.imgur.com/TumaMcS.jpg"><img class="postImage" src="https://i.imgur.com/TumaMcSh.jpg" />  
 SC_20170305_HI UTSURI-31cm  
  </a>    
 
-<a href="https://i.imgur.com/pwquu0K.jpg"><img class="postImage" src="https://i.imgur.com/pwquu0Kh.jpg" />  
-SC_20170305_HI UTSURI-29cm  
+<a href="https://i.imgur.com/38QAKyC.jpg"><img class="postImage" src="https://i.imgur.com/38QAKyCh.jpg" />  
+SC_20170305_KOHAKU-28cm  
+ </a>    
+
+<a href="https://i.imgur.com/a1nbfcJ.jpg"><img class="postImage" src="https://i.imgur.com/a1nbfcJh.jpg" />  
+SC_20170305_SHOWA-27cm  
+ </a>    
+
+<a href="https://i.imgur.com/6JLS08m.jpg"><img class="postImage" src="https://i.imgur.com/6JLS08mh.jpg" />  
+SC_20170305_SHOWA-31cm  
+ </a>    
+
+<a href="https://i.imgur.com/rNoMknK.jpg"><img class="postImage" src="https://i.imgur.com/rNoMknKh.jpg" />  
+SC_20170305_SANKE-26cm  
+ </a>    
+
+<a href="https://i.imgur.com/jt6fs8R.jpg"><img class="postImage" src="https://i.imgur.com/jt6fs8Rh.jpg" />  
+SC_20170305_SHOWA-31cm  
+ </a>    
+
+<a href="https://i.imgur.com/LU8Cawy.jpg"><img class="postImage" src="https://i.imgur.com/LU8Cawyh.jpg" />  
+SC_20170305_SHOWA-27cm  
+ </a>    
+
+<a href="https://i.imgur.com/tFj0BJ4.jpg"><img class="postImage" src="https://i.imgur.com/tFj0BJ4h.jpg" />  
+SC_20170305_KOHAKU-32cm  
  </a>   
