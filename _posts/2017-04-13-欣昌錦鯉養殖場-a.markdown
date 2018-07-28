@@ -1,0 +1,165 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-04-13T13:38:11+0000 
+categories: [] 
+media:
+  - id: s2QRaI1
+    name: W9P1Vx6gW9c4MV6q45vnsmy4mZ
+    description: 'SC_20170413_GINRIN BEKKO-14cm'   
+    height: 607
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/s2QRaI1.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3yR2X7T6MAp0qBl3sprWMx4VlpFOY8WxOZpViX78DPWr36f6NOg4PlXOf1p0nL33zzIWQj8wMWZ7t6nGzoJXXpiyL8N9Ok35f3wEy2KD2pCxXgj1J046h3977AME6pUX98lX9rYpIJm5kGXn97hxyK9xOVOrcvVomLkV49H95PVBAO30h8ly77
+    parentId: W9P1Vx6gW9c4MV6q45vnsmy4mZ
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: b8vlaHQZ3OeketK
+  - id: SJIVhFz
+    name: O0gGKmY1J0sO7Mnqz6AlSPBBAR
+    description: 'SC_20170413_GINRIN KOHAKU-14cm'   
+    height: 613
+    width: 438
+    type: image/jpeg
+    link: https://i.imgur.com/SJIVhFz.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWKMRnmhRZpvjW55xcEB60Mr8DEsDl82K9B5OSQxPN6M2J1IMw63nyZvkIv26jz4wo4u9j6GrgLy5tJYqwBvAAnCDLVqEmQNpUoDG97k27vT9YVX3QWRoCgDzol5okoIjv19xmQo8CwXY9Pn7JKtqmRgyLPVri71wJmELkVfQRlM3kLNXI9KYkE
+    parentId: O0gGKmY1J0sO7Mnqz6AlSPBBAR
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: EKD4H2qc65FdH4Z
+  - id: PiAQhPk
+    name: qkQo1gxPAkF2EVLOPRXvCN1NQk
+    description: 'SC_20170413_GINRIN KOHAKU-15cm'   
+    height: 614
+    width: 440
+    type: image/jpeg
+    link: https://i.imgur.com/PiAQhPk.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpP4xE02IBygOVzqv8u4nErj9pK4F3kjmxWgr6cGDpGngDo9tER66nEPpYFK6W67OMM5FnmYWOVOYjuEvMjP255VCjApKLn8BEinYV0pJwplFm5lEA03O8H452oE86KDTgpX21p58QSVZp7Y28y5f3M58m15ArIgr7jxZkPGULEMkw0Q1jHrYkMR
+    parentId: qkQo1gxPAkF2EVLOPRXvCN1NQk
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: DZT3owawAelKDva
+  - id: HUHBhoR
+    name: N6OGJlkZ76hp0GDY0qB8Tr3MrK
+    description: 'SC_20170413_GINRIN SANKE-14cm'   
+    height: 616
+    width: 441
+    type: image/jpeg
+    link: https://i.imgur.com/HUHBhoR.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L5O6jEOU6vg31LZwAcoEJvjr3OoSwOMnWO48zU7JK0q9Og6sNMwBAQyWWu4WMBEDY7yTZr6p5XZkYFZnqE5mAAof9rv3ZXQoYUY0W9BLQBgfMywwl1qRWUlOAGYvjMnuALrQ4A0mZU0q1X9ZP1PTlzp8M24GAcqMxDAvljNHm835YXBE2F2AZNg
+    parentId: N6OGJlkZ76hp0GDY0qB8Tr3MrK
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: sEJ6RZ02bpupAdz
+  - id: XqFU9l1
+    name: k02g1YRJ60svOp8VPRBmuJ3JQo
+    description: 'SC_20170413_GOROMO-14cm'   
+    height: 609
+    width: 435
+    type: image/jpeg
+    link: https://i.imgur.com/XqFU9l1.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo29nkV9t4gZPxvQxwFwLxJ6Qrmwsj40XYzWlmT826EJvlWzTWjyy2z2B0IJYz29ZlV3t8k8GRRQ90U7GD04ZMM9CryLQpRlx8C6gr49GA9pFYQmMJW77zSvOrEBG4yGSLrXgQB3gWSv7033wE8ZuYDOLwxQyrIlM6M1oPD7fjw0OlY8RVsLBDOK
+    parentId: k02g1YRJ60svOp8VPRBmuJ3JQo
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: fpw2lB7j6V4OZzG
+  - id: mzckINd
+    name: KV8GDgrWAVuk2nZPMqzDHp88MY
+    description: 'SC_20170413_KOHAKU-14cm'   
+    height: 607
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/mzckINd.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMwg8ZwU7l9jvNkq2CW57LyqZQWs9vyO5xmKWi70OXm8YwvUYO1nWoOyZHKnxOq3PDgip5PWwxn8oC3MV62KYYBu352NZ1DRltN5rzOQAOXTVMPE155D7U8A7ZBJ8DGuyX8Z0MX7AtP3KyQJWpPu2GmB6zZ7AUQA6yn3pLrcD08BPnjgWsZ05m4
+    parentId: KV8GDgrWAVuk2nZPMqzDHp88MY
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: v1L6MvVWdfoGk1E
+  - id: ukrdFeY
+    name: j9YB1XRGA9c0nW4ronyDf1plP1
+    description: 'SC_20170413_SANKE-16cm'   
+    height: 612
+    width: 438
+    type: image/jpeg
+    link: https://i.imgur.com/ukrdFeY.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ03QyE8syG7zlq049S4yAvNjGm4FRxMNGjxQBf0j7Jk6AGyFpv1xN0DNMFQJAXQyJWQco8KqKpKk5HEwmM8L77OCEvpK2NBM7ULJl4zoRzPuQv7j72WqqHlVxGZPGRYSLm3kpm8jNiNK0W1QAYVTxkWo5L23qI7OpK7z4ANfGvAo5w6O3uoMW6j
+    parentId: j9YB1XRGA9c0nW4ronyDf1plP1
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: J7Wi50TegVNdJzJ
+  - id: 5DrayGf
+    name: GVRA016PwVu91DP6NyXrUkOOKy
+    description: 'SC_20170413_TANCHO SANKE-16cm'   
+    height: 616
+    width: 441
+    type: image/jpeg
+    link: https://i.imgur.com/5DrayGf.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WOPg6rUrD17K0QBNtV1RqYEwOVsX38Mmv0QyFQ5Z2jAnA6Fq9DDxwLvkUp1pjAA8zMfAwy288QrrHg6V5A7NNnUW5AYm2LzoCgwxNQE2QDf4zyXmlLVWsxNNzr0pEQCwN3Aq3jMPUpRQxNYMoYf5nzgoBRrYsP8XyWj1vGf0pLMAq8YJUvoA1X
+    parentId: GVRA016PwVu91DP6NyXrUkOOKy
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: HdHkfktIKm9ok93
+  - id: un5pbUd
+    name: BYrvqVBK1YtN7wARwDkQCWOj2D
+    description: 'SC_20170413_TANCHO KUMORYU-35cm'   
+    height: 615
+    width: 440
+    type: image/jpeg
+    link: https://i.imgur.com/un5pbUd.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14VkvnZTzQNM8yZJvhoK0PYAxroSKW3RD3nmlhEgrvPyKDBtlnjwDEwWgSL9GwExxYPS4Yk64l9goUKx1YmVqqWh0Ox74nVWwUQ1myxVlxNuzJGw39qZKU7281BO677iLz3XAoXoJIOJKR50792SLpAjMWVMKSroDll5O16UPBvzj2NRPTrKBmr
+    parentId: BYrvqVBK1YtN7wARwDkQCWOj2D
+    postId: PE2EO2nVQ7hnP1NKB8nMixDXA6P6RAIjlJ542RGpCkBLAR2nVBfME
+    factor: 1.40
+    portrait: 1
+    mInfo: e75svRb42jnCyhM
+story: '欣昌錦鯉養殖場 added 9 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 9 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/s2QRaI1.jpg"><img class="postImage" src="https://i.imgur.com/s2QRaI1h.jpg" />  
+SC_20170413_GINRIN BEKKO-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/SJIVhFz.jpg"><img class="postImage" src="https://i.imgur.com/SJIVhFzh.jpg" />  
+SC_20170413_GINRIN KOHAKU-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/PiAQhPk.jpg"><img class="postImage" src="https://i.imgur.com/PiAQhPkh.jpg" />  
+SC_20170413_GINRIN KOHAKU-15cm  
+ </a>    
+
+<a href="https://i.imgur.com/HUHBhoR.jpg"><img class="postImage" src="https://i.imgur.com/HUHBhoRh.jpg" />  
+SC_20170413_GINRIN SANKE-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/XqFU9l1.jpg"><img class="postImage" src="https://i.imgur.com/XqFU9l1h.jpg" />  
+SC_20170413_GOROMO-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/mzckINd.jpg"><img class="postImage" src="https://i.imgur.com/mzckINdh.jpg" />  
+SC_20170413_KOHAKU-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/ukrdFeY.jpg"><img class="postImage" src="https://i.imgur.com/ukrdFeYh.jpg" />  
+SC_20170413_SANKE-16cm  
+ </a>    
+
+<a href="https://i.imgur.com/5DrayGf.jpg"><img class="postImage" src="https://i.imgur.com/5DrayGfh.jpg" />  
+SC_20170413_TANCHO SANKE-16cm  
+ </a>    
+
+<a href="https://i.imgur.com/un5pbUd.jpg"><img class="postImage" src="https://i.imgur.com/un5pbUdh.jpg" />  
+SC_20170413_TANCHO KUMORYU-35cm  
+ </a>   
