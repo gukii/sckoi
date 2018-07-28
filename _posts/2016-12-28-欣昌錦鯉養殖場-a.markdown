@@ -1,0 +1,83 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2016-12-28T09:15:44+0000 
+categories: [] 
+media:
+  - id: JRrUvIo
+    name: zw6YXR648PUzKnZ1Y7kVcopR2B
+    description: 'SC_20161228_HI UTSURI-24cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/JRrUvIo.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3Zpg55E1ksLAByJoJp2TwDKBGW9GxtZ0xOkK2D0FnZGV9N12DC0KVn3g15rfRjA4786OQCklN95O2DwcBR3v9DD7Xt1q9mO0EEgI0329O0wQMIWxky6mrEks4OPW5pMx7TD3ZlMg2J4H796gLoZy0TY2owZ3lgjtkpLYD6LVncnz5Nm6EYO
+    parentId: zw6YXR648PUzKnZ1Y7kVcopR2B
+    postId: DoMoyMXV81tZyLJ57NZ0foMjplxlLEIQnnEgMrWjT4DxyYP92lInW
+    factor: 1.40
+    portrait: 1
+    mInfo: IZ3ccYnAQqWgT5w
+  - id: bnNPAct
+    name: pjZL2EZoDwIZ5ypK1RmOUJqQgR
+    description: 'SC_20161228_HI UTSURI-20cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/bnNPAct.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DYBOOANYFoXggAKO6qsLXmy2DwrJU90X1on5YjhQooP753NvSN6Xv0XlgkskMq6pQ4DRFYnvg8p5LzI4Pr9BKKV1S7gxm2q55JT75pBN7GQqcXLMEpkOwKfnAExgQ6glsBom0VO3O5CAWwXWGMAriJGQLZ6G8miYq30Gm3E6C4MvA89VAX
+    parentId: pjZL2EZoDwIZ5ypK1RmOUJqQgR
+    postId: DoMoyMXV81tZyLJ57NZ0foMjplxlLEIQnnEgMrWjT4DxyYP92lInW
+    factor: 1.40
+    portrait: 1
+    mInfo: SFUrpaDfKg2CZZZ
+  - id: bWUTRN3
+    name: J98WQJ8KnDuoxLo2vNgjCvWA1k
+    description: 'SC_20161228_TANCHO KOHAKU-18cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/bWUTRN3.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDlngADgVzCLx8krx1JlcyRLvDzX29CL8w6n91oWFloyZk3vPqCPWZzLlQp1cLpr74jnYVSkX1My48KYTOKmg8ppRVsR2W8pOooVuklP5NkLmltV7ZDZzOw7uo5Y8EBzxAS8VmngEkPxI9pVLO9ALMc9MB3ADokrTJ0DWQoDEzcnXprM3Yj0
+    parentId: J98WQJ8KnDuoxLo2vNgjCvWA1k
+    postId: DoMoyMXV81tZyLJ57NZ0foMjplxlLEIQnnEgMrWjT4DxyYP92lInW
+    factor: 1.40
+    portrait: 1
+    mInfo: K5oUlcdRO8dYPOU
+  - id: oDdPVgG
+    name: GVRW8DRXknF9yK4Q4rxQhkNwXM
+    description: 'SC_20161228_TANCHO KOHAKU-20cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/oDdPVgG.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYo02D8mYLiEAZYDBN15c32mQPMqJEF81MD5nByBiDqmQwAxR0hWxGO9R5EBtqPOOA7P56cpLvrlXkKVcWvAgVrr0NtvW18jg006Fp6Y1Bp3vjF6PJgqp69lcrEqBX4PDYtKDO8WMxjmILRLvPE2YQtn5Q8KkKpRfM672qB7xlSGYOvMNy7O
+    parentId: GVRW8DRXknF9yK4Q4rxQhkNwXM
+    postId: DoMoyMXV81tZyLJ57NZ0foMjplxlLEIQnnEgMrWjT4DxyYP92lInW
+    factor: 1.40
+    portrait: 1
+    mInfo: 0LC3LTed2jKhHmj
+story: '欣昌錦鯉養殖場 added 6 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 6 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JRrUvIo.jpg"><img class="postImage" src="https://i.imgur.com/JRrUvIoh.jpg" />  
+SC_20161228_HI UTSURI-24cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/bnNPAct.jpg"><img class="postImage" src="https://i.imgur.com/bnNPActh.jpg" />  
+SC_20161228_HI UTSURI-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/bWUTRN3.jpg"><img class="postImage" src="https://i.imgur.com/bWUTRN3h.jpg" />  
+SC_20161228_TANCHO KOHAKU-18cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/oDdPVgG.jpg"><img class="postImage" src="https://i.imgur.com/oDdPVgGh.jpg" />  
+SC_20161228_TANCHO KOHAKU-20cm  
+ </a>   
