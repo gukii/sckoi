@@ -1,0 +1,30 @@
+---
+layout: post
+title: '這是一場 默契十足' 
+date: 2017-07-19T21:08:59+0000 
+categories: [] 
+media:
+  - id: iv0UBog
+    name: KV64gK2NymckJ9yljQJDfp84Q1
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/iv0UBog.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2MrpFlRYD32166HroPLWYggRSr1rPmonRvhzYgx55DZPukoyWpWAnEhz7RpVV4y5tgWX96Lxkosno7vNBp9lcMRQME2p0PiBDBj6O8oMF7Mw9kz544C7qw67OlzPu3n9Pm5ZG0u6Q1Gn2O6WsPQ8NPo0B5iPQ20r6z8pIKWZJrjkGLcOm3MBjV5rfj50xZv4Z6tx4KG4l1zKhK8l
+    parentId: KV64gK2NymckJ9yljQJDfp84Q1
+    postId: olNlGN3gyVcmQVPrAjmZt8k9nOrO05uDy2wNzm1qHNvBNVAX8ZUDz
+    factor: 1.78
+    portrait: 1
+    mInfo: LuegrlOFsCWIVkR
+message: '這是一場 默契十足、Freestyle 的交響樂    無人指揮，但「你」就是那個聽眾'  
+---
+
+這是一場 默契十足、Freestyle 的交響樂  
+  
+無人指揮，但「你」就是那個聽眾
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/iv0UBog.jpg"><img class="postImage" src="https://i.imgur.com/iv0UBogh.jpg" />  
+</a>   
