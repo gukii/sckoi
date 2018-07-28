@@ -1,0 +1,65 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-09T03:12:20+0000 
+categories: [] 
+media:
+  - id: JAuFpSJ
+    name: J98Wm9qOxRuo4MnynWqYCv3yWr
+    description: 'SC_20170106_SHOWA-23cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/JAuFpSJ.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlZDZJBVqSKWqNOVzo9TEJX1rAPZwIlDkQ2jVQkfRogOB0nlwi47r3zY0mnUYJ6qV2KBMh7OGVQzlk4IRqV3xEEL2fO0r2pN66MhXyvWJXvJrILPXJwZ35oF0YW62NEGKfL8WABEkorhx0x8Az9RjF7EJw5POyOCxgML8WMZPHq8Jv8EAwX
+    parentId: J98Wm9qOxRuo4MnynWqYCv3yWr
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEoJg8GPjJcEB22VX7kqUoK
+    factor: 1.40
+    portrait: 1
+    mInfo: Ecz3Fj6LaZVwpwA
+  - id: pUciwHa
+    name: W9PoD9750Ru8pmyZk2WnfmMLo5
+    description: 'SC_20170106_SHOWA-19cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/pUciwHa.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1JyNygLnDS4kDNgmxmLcBoXgwY8EoU5p7Q4nvQgH8wz3vwKoVS2AAZr1NNGTpWrloElZ8HjMmLDZ3mEurOG6xNNnjHx7YwNGVVOuYRNM7YNAKcDwEwpVLZzirBVQKkw1yT5rVLYQ10xFjEVZz9JELfpw03N8v8qCMvOPKyOYqSN8gmOEDrM
+    parentId: W9PoD9750Ru8pmyZk2WnfmMLo5
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEoJg8GPjJcEB22VX7kqUoK
+    factor: 1.40
+    portrait: 1
+    mInfo: FcaY1XkSvMCOXmw
+  - id: 0QdH7f1
+    name: k02Xm0ZGLPSvLGwD309JIJzMMQ
+    description: 'SC_20170106_SHOWA-25cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/0QdH7f1.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoNg8DV6P6SjzxDLR9gzS8kVKlA4rRUWRYg3VZwZfQWv1k0J5Lsng8NrvAOqs0wMBPJmQnSQ1l61BLoyINEGm9RRZnS7kgP6ZwwpT9gYk59MOPfLPAA1KAXWUv70337GORhKqwXDKLM2SAB4xNlq77CzGPYV98LEHroEKQDEz6I21BJ74pEk
+    parentId: k02Xm0ZGLPSvLGwD309JIJzMMQ
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEoJg8GPjJcEB22VX7kqUoK
+    factor: 1.40
+    portrait: 1
+    mInfo: axpCbH16gEP4IGT
+story: '欣昌錦鯉養殖場 added 5 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 5 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JAuFpSJ.jpg"><img class="postImage" src="https://i.imgur.com/JAuFpSJh.jpg" />  
+SC_20170106_SHOWA-23cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/pUciwHa.jpg"><img class="postImage" src="https://i.imgur.com/pUciwHah.jpg" />  
+SC_20170106_SHOWA-19cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/0QdH7f1.jpg"><img class="postImage" src="https://i.imgur.com/0QdH7f1h.jpg" />  
+SC_20170106_SHOWA-25cm  
+ </a>   
