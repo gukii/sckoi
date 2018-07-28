@@ -4,6 +4,19 @@ title: '欣昌錦鯉養殖場 a'
 date: 2017-03-01T00:17:02+0000 
 categories: [] 
 media:
+  - id: AmSezm6
+    name: 3x6JoJjm9Qsv8zz0MrVGFQoMqz
+    description: 'SC_20170223_GOSHIKI-23cm'   
+    height: 615
+    width: 439
+    type: image/jpeg
+    link: https://i.imgur.com/AmSezm6.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9NqQR6CYkRq9NORECLrYXY0MP5c8rmmwN6zXs6ww5Z8nLzuXVXoAkNwWTq5r2AyVPBH38GQA8Rx8in7rxWwPPVfDwGAxBWpyUKE7gA6DA2f907Nr3pwntvYVJpGwM9cPrOgAZ13DFBjoYYxPpxsrnLQpMv7DsB9yLLXJx0iw1GzJK5Oms7XAK8
+    parentId: 3x6JoJjm9Qsv8zz0MrVGFQoMqz
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UV1VxGJ4NMTo579LDO3xFBy
+    factor: 1.40
+    portrait: 1
+    mInfo: chkIc735zg70L6q
   - id: QofQsKa
     name: 2w8JnJgl9xcQxzzK7VkMH9QW2O
     description: 'SC_20170223_GOSHIKI-23cm'   
@@ -30,19 +43,6 @@ media:
     factor: 1.40
     portrait: 1
     mInfo: gjfQ2IZYVzS4nQM
-  - id: teanc86
-    name: qkQ8P8VW27tvVykJDkQlFN72kG
-    description: 'SC_20170223_KOHAKU-24cm'   
-    height: 609
-    width: 435
-    type: image/jpeg
-    link: https://i.imgur.com/teanc86.jpg
-    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLN2R6xwh7W5DWryA7Sg9xjxRB5QIo89vPMv4WtyvLZ0zAYKTO6AGx6J4RfV0JBPlDRZhP7xjqlE5OsEYpLBQooMCGqokLp49xC7jvJ8mN8yF6mgw023mBhWP2RQA8Z5SVvV1G1p5RCy7Z9j20z4T8rGAxp862SK0n0A3oVQf9JXlMD1nZh5X3Mm
-    parentId: qkQ8P8VW27tvVykJDkQlFN72kG
-    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UV1VxGJ4NMTo579LDO3xFBy
-    factor: 1.40
-    portrait: 1
-    mInfo: 6crKUvHjlCy1Xhi
   - id: tzwgg0u
     name: 1v67m7Yk9WsXRODwMN57tYnKvr
     description: 'SC_20170223_GOSHIKI-24cm'   
@@ -56,19 +56,58 @@ media:
     factor: 1.40
     portrait: 1
     mInfo: 3l85R46RRaM5u7C
-  - id: AmSezm6
-    name: 3x6JoJjm9Qsv8zz0MrVGFQoMqz
-    description: 'SC_20170223_GOSHIKI-23cm'   
-    height: 615
-    width: 439
+  - id: teanc86
+    name: qkQ8P8VW27tvVykJDkQlFN72kG
+    description: 'SC_20170223_KOHAKU-24cm'   
+    height: 609
+    width: 435
     type: image/jpeg
-    link: https://i.imgur.com/AmSezm6.jpg
-    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9NqQR6CYkRq9NORECLrYXY0MP5c8rmmwN6zXs6ww5Z8nLzuXVXoAkNwWTq5r2AyVPBH38GQA8Rx8in7rxWwPPVfDwGAxBWpyUKE7gA6DA2f907Nr3pwntvYVJpGwM9cPrOgAZ13DFBjoYYxPpxsrnLQpMv7DsB9yLLXJx0iw1GzJK5Oms7XAK8
-    parentId: 3x6JoJjm9Qsv8zz0MrVGFQoMqz
+    link: https://i.imgur.com/teanc86.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLN2R6xwh7W5DWryA7Sg9xjxRB5QIo89vPMv4WtyvLZ0zAYKTO6AGx6J4RfV0JBPlDRZhP7xjqlE5OsEYpLBQooMCGqokLp49xC7jvJ8mN8yF6mgw023mBhWP2RQA8Z5SVvV1G1p5RCy7Z9j20z4T8rGAxp862SK0n0A3oVQf9JXlMD1nZh5X3Mm
+    parentId: qkQ8P8VW27tvVykJDkQlFN72kG
     postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UV1VxGJ4NMTo579LDO3xFBy
     factor: 1.40
     portrait: 1
-    mInfo: chkIc735zg70L6q
+    mInfo: 6crKUvHjlCy1Xhi
+  - id: oGDw65C
+    name: AY6OJOQEm6hRX5ZG6qGpHQqnl9
+    description: 'SC_20170223_KUJAKU-15cm'   
+    height: 609
+    width: 434
+    type: image/jpeg
+    link: https://i.imgur.com/oGDw65C.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpP4xE0NhlZMAEPoJmU4nWpW1Vynt3Z65Xp7X0fGZ29AvzyvFo48NLwMp5hJ9Gj16wMWt6YlzpDYKYiEvMjP255VCjApKLn8BEinYV0pJwplFm8N7oNR7lUNojNW1gWXCg3kXop88jfVklmMAKQDC3EGOXjmDqHX1glExAM2CLEMkwj9OWCrRvmO
+    parentId: AY6OJOQEm6hRX5ZG6qGpHQqnl9
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UV1VxGJ4NMTo579LDO3xFBy
+    factor: 1.40
+    portrait: 1
+    mInfo: Ic733l5OyDPkYoR
+  - id: O4lm8DX
+    name: RVlB4BMvLOsXxwKwlYW6IqV6w6
+    description: 'SC_20170223_KUJAKU-13cm'   
+    height: 600
+    width: 429
+    type: image/jpeg
+    link: https://i.imgur.com/O4lm8DX.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9kPgnM0SVGDkQKro6hz94X4g8oJcw30E0vAP6IxXPBgwX3YsPgmROx3J6uKOmlXkGzGcD4D86EAOriwNlozOxxXUkqPQXW9goHx2XQlRZlrsg0Bw4w1yDTJWRA6712lUqNg34JRjBi5J21mol5gTZnj2mM3GVhyX8g8mr2Mh8pJMDLoB9swpmE8
+    parentId: RVlB4BMvLOsXxwKwlYW6IqV6w6
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UV1VxGJ4NMTo579LDO3xFBy
+    factor: 1.40
+    portrait: 1
+    mInfo: Cnu0m0Buwfz4QiH
+  - id: Ro80x5f
+    name: W9PBgBwA8LU8kz0008BgUmw7xL
+    description: 'SC_20170223_GOSHIKI-23cm'   
+    height: 606
+    width: 433
+    type: image/jpeg
+    link: https://i.imgur.com/Ro80x5f.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3yR2LMs6MKDrgJAXcpr7V7GAPgsw31kkkwQmIvmm00XlJWTgl6D2rOK1i1oM7Qg77jCO3ym0xG4Yi6nGzoJXXpiyL8N9Ok35f3wEy2KD2pCxXN7wykMkU4pA68oXZDfVENZ066P4sJ9mOXNLx0IzEDPD6P5DHwRLo6x5Knf95PVRgK0Et8PQx8
+    parentId: W9PBgBwA8LU8kz0008BgUmw7xL
+    postId: pmOmJO4j28tZ70Ong1ZKfXK1WJqJ36UV1VxGJ4NMTo579LDO3xFBy
+    factor: 1.40
+    portrait: 1
+    mInfo: 4ErtxPNdLdcF4rX
 story: '欣昌錦鯉養殖場 added 8 new photos.'  
 ---
 
@@ -76,6 +115,10 @@ story: '欣昌錦鯉養殖場 added 8 new photos.'
 
 
 [//]: #media:  
+<a href="https://i.imgur.com/AmSezm6.jpg"><img class="postImage" src="https://i.imgur.com/AmSezm6h.jpg" />  
+SC_20170223_GOSHIKI-23cm  
+ </a>    
+
 <a href="https://i.imgur.com/QofQsKa.jpg"><img class="postImage" src="https://i.imgur.com/QofQsKah.jpg" />  
 SC_20170223_GOSHIKI-23cm  
  </a>    
@@ -84,14 +127,22 @@ SC_20170223_GOSHIKI-23cm
 SC_20170223_GOSHIKI-23cm  
  </a>    
 
-<a href="https://i.imgur.com/teanc86.jpg"><img class="postImage" src="https://i.imgur.com/teanc86h.jpg" />  
-SC_20170223_KOHAKU-24cm  
- </a>    
-
 <a href="https://i.imgur.com/tzwgg0u.jpg"><img class="postImage" src="https://i.imgur.com/tzwgg0uh.jpg" />  
 SC_20170223_GOSHIKI-24cm  
  </a>    
 
-<a href="https://i.imgur.com/AmSezm6.jpg"><img class="postImage" src="https://i.imgur.com/AmSezm6h.jpg" />  
+<a href="https://i.imgur.com/teanc86.jpg"><img class="postImage" src="https://i.imgur.com/teanc86h.jpg" />  
+SC_20170223_KOHAKU-24cm  
+ </a>    
+
+<a href="https://i.imgur.com/oGDw65C.jpg"><img class="postImage" src="https://i.imgur.com/oGDw65Ch.jpg" />  
+SC_20170223_KUJAKU-15cm  
+ </a>    
+
+<a href="https://i.imgur.com/O4lm8DX.jpg"><img class="postImage" src="https://i.imgur.com/O4lm8DXh.jpg" />  
+SC_20170223_KUJAKU-13cm  
+ </a>    
+
+<a href="https://i.imgur.com/Ro80x5f.jpg"><img class="postImage" src="https://i.imgur.com/Ro80x5fh.jpg" />  
 SC_20170223_GOSHIKI-23cm  
  </a>   
