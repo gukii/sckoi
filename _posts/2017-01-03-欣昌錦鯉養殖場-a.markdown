@@ -1,0 +1,83 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-03T10:37:39+0000 
+categories: [] 
+media:
+  - id: qfJix8s
+    name: Z98rWw9qm2sjLKvWMm6OtxQnmK
+    description: 'SC_20170102_KOHAKU-16cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/qfJix8s.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvg7O7YoQGUxgxr7KJzjfrX7jqopOKtzLPEzZnXPUDVVwg12KGCvyP0jXYQruYmEO37Xw3sJk65ZRKYKHpNPyA55g0fXqQ58099vSY2nV4YgKjF5Loo6V1VpTJkzrJ19pNFOZorAw70LulmYwJQVM7fYKW9D6qEjtO1pDrRp9VSr3zMpnO1j
+    parentId: Z98rWw9qm2sjLKvWMm6OtxQnmK
+    postId: NBZBMZl60LspzqP0YDpXFL1EwrprlxhBXvWmz5q4Hrg66mgX6AcnR
+    factor: 1.40
+    portrait: 1
+    mInfo: LaQcQT9yXEzsIMs
+  - id: eyh6E7T
+    name: LVZWPYVM5Ki3rK46pJPMTjX1gp
+    description: 'SC_20170102_SANKE-16cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/eyh6E7T.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7kjknp40SvQrl4RZXjHL5GqBRkRwhlnwWOmr16ULGYNKYwGmTVXQmvqwzVUkWYqzV5BLsKqqqJX8WkcYQqKlAAy5fo4Gxnzww5unNpJ7n10ZCX5VlK0QAnT2JWOyL6roCN3lJPPpvEi2XYykRgjgUNKZ2kAvZ1fqYJxw4JjVI2lZ70nvmy
+    parentId: LVZWPYVM5Ki3rK46pJPMTjX1gp
+    postId: NBZBMZl60LspzqP0YDpXFL1EwrprlxhBXvWmz5q4Hrg66mgX6AcnR
+    factor: 1.40
+    portrait: 1
+    mInfo: zymMsmkzHv88JvQ
+  - id: U2FrUxm
+    name: xr6LlVrO7RtX3W5PQmxWURBzgr
+    description: 'SC_20170102_SHOWA-25cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/U2FrUxm.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DYB9Yv3VIoEoJAWEzAtLDM18VmyAu96vq3mEO0sQoqOWJPN1hz7p2YVJZZC9EyD88Q6WSYvK95Z0lzs4Pr9BKKV1S7gxm2q55JT75pBN7G26sjLmOAXGEYCQ8J4YW0LBtKp90M4G2kH98nwgZYROSWwOY4w1NKFYq30Gm3E6C4wYlXBXZV
+    parentId: xr6LlVrO7RtX3W5PQmxWURBzgr
+    postId: NBZBMZl60LspzqP0YDpXFL1EwrprlxhBXvWmz5q4Hrg66mgX6AcnR
+    factor: 1.40
+    portrait: 1
+    mInfo: 0OlbI74iIiz8Z1g
+  - id: abfanMS
+    name: ogZXOvgp6GswR29E2Py1IOjyxw
+    description: 'SC_20170102_KOHAKU-16cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/abfanMS.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWXZ5AZDOVcGDP0JlNY8HqDmJkELw8hvL4zxYggrfAZZ1wGKr7sVrE2k0Z2qU5Ky8n0rEMCRvxxw1j45h0Vj4w33mqCvJGKr977RFEVAxkEBAKfwEAMA73l7tp4nYZQ5DGSw4jYK7nO6IzlvYvNlLpCqzj6lE3oYur1XNV4XRKIKr8Wl3K1l
+    parentId: ogZXOvgp6GswR29E2Py1IOjyxw
+    postId: NBZBMZl60LspzqP0YDpXFL1EwrprlxhBXvWmz5q4Hrg66mgX6AcnR
+    factor: 1.40
+    portrait: 1
+    mInfo: uNNVxq4vPRlzNOj
+story: '欣昌錦鯉養殖場 added 5 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 5 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/qfJix8s.jpg"><img class="postImage" src="https://i.imgur.com/qfJix8sh.jpg" />  
+SC_20170102_KOHAKU-16cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/eyh6E7T.jpg"><img class="postImage" src="https://i.imgur.com/eyh6E7Th.jpg" />  
+SC_20170102_SANKE-16cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/U2FrUxm.jpg"><img class="postImage" src="https://i.imgur.com/U2FrUxmh.jpg" />  
+SC_20170102_SHOWA-25cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/abfanMS.jpg"><img class="postImage" src="https://i.imgur.com/abfanMSh.jpg" />  
+SC_20170102_KOHAKU-16cm  
+ </a>   
