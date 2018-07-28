@@ -1,0 +1,80 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-23T05:15:33+0000 
+categories: [] 
+media:
+  - id: 6mzsLzi
+    name: xr6LX7BpzmHj13nozjYYhRXLJX
+    description: 'SC_20170123_GOMORO-14cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/6mzsLzi.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9E2wJ93EJcVXl7G9kwOuWKwJGXV3EUm1Xv6A2G5CMPmzDmWx1sQKP4Wn2xMcB6gZzQvM0HJNjpO90DOCkZ6VBJJEjtMlQ4z3PPjTpKNmMp9LAsZjBBD9ZR3U7L9o4768qhYv4Pw1MvYImzQxRyVWZcPDNg1nQKZc6Xxl7AxLDcGJxM5MKBr
+    parentId: xr6LX7BpzmHj13nozjYYhRXLJX
+    postId: Znln2lA90YFY0q851rY2twAokxQxR3tERonWDKVmTZ2LDV08jVt9X
+    factor: 1.40
+    portrait: 1
+    mInfo: CzYDwE9wxjjFmqH
+  - id: YK3CuJX
+    name: 0r8DQXmwoBHzGLVDABqOtOJz8W
+    description: 'SC_20170123_KOHAKU-14cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/YK3CuJX.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZXY0kZ6XLinWlQ11EK6cAlqozJ4KlhrN21z4ojgtQ33026981HLEwgz56KyCAPO0VORW6TyNrVkBYQwIj0XNkPPAzfD7mJL0nnXCzPZV7zZ5Ncx85prkVVBh92nj7AKBRFZzK71PPmJiW8JP19PyAFqVnN98x0LuwjvgZWvYLtYx0MljP7L
+    parentId: 0r8DQXmwoBHzGLVDABqOtOJz8W
+    postId: Znln2lA90YFY0q851rY2twAokxQxR3tERonWDKVmTZ2LDV08jVt9X
+    factor: 1.40
+    portrait: 1
+    mInfo: hDMgdiJf7GU0sFD
+  - id: DGXw6AF
+    name: wq07WRAoylInG1kL152zU1znXm
+    description: 'SC_20170123_KOHAKU-16cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/DGXw6AF.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31LWn3z1wHvL32mRnrOIG26rPqE3NclVnMO3oXoFEgQknjX8OiNoNlVJRW7s2Q0PAr9B4SMErBLYWXGu76PNOgg2AfYlgkKGww3IXErgzXwPvfZL6oWk6QmI5WBYXBJVLfmwLxnynjvT8QYqB0XQYfDO5NrxYJquok8R7j8mYtR14NJgwvB
+    parentId: wq07WRAoylInG1kL152zU1znXm
+    postId: Znln2lA90YFY0q851rY2twAokxQxR3tERonWDKVmTZ2LDV08jVt9X
+    factor: 1.40
+    portrait: 1
+    mInfo: Vm8i3MnLufH9Sjf
+  - id: Fq36Q6i
+    name: GVRW4Q21XES91zGj2RGKhkNwXL
+    description: 'SC_20170123_SHOWA-19cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/Fq36Q6i.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNQjxWRN3U1j6zXJRmRSQ957GwjoOiMloB1L6P2hEp9DkWW6LF9GMMEDkJwTwx3Egz4rDcqprjEqEEMFO4kP7ppr5sQO60G1yy2s0jlEm0or4fjLxYN6WqoUVDlKlgVPrtq6oDLjA9Nh4PjpGlOAOfQyGG8nyRXIQxko1gkPmcqBMR9JEWR
+    parentId: GVRW4Q21XES91zGj2RGKhkNwXL
+    postId: Znln2lA90YFY0q851rY2twAokxQxR3tERonWDKVmTZ2LDV08jVt9X
+    factor: 1.40
+    portrait: 1
+    mInfo: tbmuiIxVEd8FXxk
+story: '欣昌錦鯉養殖場 added 4 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6mzsLzi.jpg"><img class="postImage" src="https://i.imgur.com/6mzsLzih.jpg" />  
+SC_20170123_GOMORO-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/YK3CuJX.jpg"><img class="postImage" src="https://i.imgur.com/YK3CuJXh.jpg" />  
+SC_20170123_KOHAKU-14cm  
+ </a>    
+
+<a href="https://i.imgur.com/DGXw6AF.jpg"><img class="postImage" src="https://i.imgur.com/DGXw6AFh.jpg" />  
+SC_20170123_KOHAKU-16cm  
+ </a>    
+
+<a href="https://i.imgur.com/Fq36Q6i.jpg"><img class="postImage" src="https://i.imgur.com/Fq36Q6ih.jpg" />  
+SC_20170123_SHOWA-19cm  
+ </a>   
