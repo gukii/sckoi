@@ -1,0 +1,47 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-02-17T02:25:57+0000 
+categories: [] 
+media:
+  - id: TZEPvo6
+    name: qkQ8J3L6WqCv7mvz7MQ2HN7g8j
+    description: 'SC_20170217_GINRIN KOHAKU-32cm-F'   
+    height: 612
+    width: 438
+    type: image/jpeg
+    link: https://i.imgur.com/TZEPvo6.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1Ym6vPBruxD63m86PDUR31LQrnD2fpwZpNw8Mvuv2RR0DkgyIKJ7VJyrNxigRqRoE8gjiL922AvYMLtmARp2BNN7SPx03rOAnqCvyMGPmjP8sJAnmXNAPAUVEoAn3NVmFDR2GkxGA8cxKMk9KVoLsXOlZjoq9DCgLO4jYNK2h8vOjlgYqAsgnqpR
+    parentId: qkQ8J3L6WqCv7mvz7MQ2HN7g8j
+    postId: 70v0gvEBX1TYwXVAr4Yotzml3q4qPGUM37vZWA1wI1mw688nkvF6W
+    factor: 1.40
+    portrait: 1
+    mInfo: mDY1hfwhdBcDn12
+  - id: VP6DCIL
+    name: 3x6J7AVEmgfvR0RkoBvkfQ8g4W
+    description: 'SC_20170217_KINKIKOKURYU-33cm-F'   
+    height: 602
+    width: 430
+    type: image/jpeg
+    link: https://i.imgur.com/VP6DCIL.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3JprKR6CmVN6M28XBHo12XZnqV7HLojoPByLPf80PP5oLjLHy82oq1YNwHVJnPJAjg2Iypg9XNwAncDl6Pw0VWWSXglNXL5PDfKoJ5m8p0Oh3YgkZBW3LFpRl2RKNoJfAEOD23R7wi3Koq0E0g8TWNJx2RNBEU6yV4XD3NjUEzXJzPOgBfxgk
+    parentId: 3x6J7AVEmgfvR0RkoBvkfQ8g4W
+    postId: 70v0gvEBX1TYwXVAr4Yotzml3q4qPGUM37vZWA1wI1mw688nkvF6W
+    factor: 1.40
+    portrait: 1
+    mInfo: uqLddupSZ8zD1Sp
+story: '欣昌錦鯉養殖場 added 3 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/TZEPvo6.jpg"><img class="postImage" src="https://i.imgur.com/TZEPvo6h.jpg" />  
+SC_20170217_GINRIN KOHAKU-32cm-F  
+ </a>    
+
+
+<a href="https://i.imgur.com/VP6DCIL.jpg"><img class="postImage" src="https://i.imgur.com/VP6DCILh.jpg" />  
+SC_20170217_KINKIKOKURYU-33cm-F  
+ </a>   
