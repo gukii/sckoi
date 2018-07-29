@@ -1,0 +1,29 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-07T05:15:59+0000 
+categories: [] 
+media:
+  - id: 9oWROm9
+    name: J98WmjMBoPSoqNqP8MVPtv5YJG
+    description: 'SC_20170106_HI UTSURI-24cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/9oWROm9.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA2DVDAZzGF3yW9y1p0EiGD7J7p6MxIo9l11p4gLFOGGMjBnAzI6Kg4nB85Jc1xPJn7GD2iMXnqXlLMAuoQJgprrB5FLKZOV4xxJC95op79vw5sLxpRBYPODtlElBXGOk6U3nA8No7n0CXY88n3mO2SL15D4LXvlUgvk72okzxtM0vnMRZJO
+    parentId: J98WmjMBoPSoqNqP8MVPtv5YJG
+    postId: lgKgBKZ97xsljwP2W0lpUWzEA141DKhNrMn9q2mPTvyvL6JzL7Tx9
+    factor: 1.40
+    portrait: 1
+    mInfo: zzg1SHBUroUkoCI
+story: '欣昌錦鯉養殖場 added 11 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 11 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/9oWROm9.jpg"><img class="postImage" src="https://i.imgur.com/9oWROm9h.jpg" />  
+SC_20170106_HI UTSURI-24cm  
+ </a>   
