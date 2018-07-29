@@ -1,0 +1,137 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-16T05:42:52+0000 
+categories: [] 
+media:
+  - id: M9vOSjo
+    name: 7B9V5gxxz8FYP46onKxQTq4xK2
+    description: 'SC_20170109_GINRIN SANKE-20cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/M9vOSjo.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNQj38PJMi1kNRELmMLUQv3BBVZk0CMvJJ8pq6kIEpjqx2ZBNT9VDW5nWA9Twp1N7LnWzUY4pxQyQG2cO4kP7ppr5sQO60G1yy2s0jlEm0lm4H0oyYX4QJVsVDrQqoMA0IO7GxYomq6C7PyXMR11NcAgM7ZLAAYtQxko1gkPmcqBjqOkArm
+    parentId: 7B9V5gxxz8FYP46onKxQTq4xK2
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: HWRqnKvHV8lkbEH
+  - id: 4bPIx0I
+    name: l9REnByyLQUlL6np5lZOc14kxv
+    description: 'SC_20170109_GINRIN KOHAKU-17cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/4bPIx0I.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKypg8wYGH9rv3kly0WU2Dokk3LllTj633pAOKWskXGMnWQvQh502XrJRZkhW3yQJnrxECVxgB5oQwof5OMjyDDnWhK80gMBXXzF36LB73xOoCl7K7KPG35S72WKjXXQYsJgWvApOJVTqgAEZ0X80f9OvXkpOEwC93ARvVAlLHzQY3WoGn4
+    parentId: l9REnByyLQUlL6np5lZOc14kxv
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: x0mKvODbRgvf1JD
+  - id: i46yfyH
+    name: ogZXqGBBKRSmoG7KQGREHO3QgJ
+    description: 'SC_20170109_KAWARIMONO-14cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/i46yfyH.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9E2wLNRlBiV26JJW3rlfWo5yy6XN5fm12gw0WRxIMPLNvzvgQuQvOAqvv7JSp5NgB4xQoSJ6zq57N9oikZ6VBJJEjtMlQ4z3PPjTpKNmMp9B0cVpL4l4kkvCXmR2vARkPfYlYjEEp4pTYMLvj3W7DF7j3NVP1QXt6Xxl7AxLWfrXvYNG6jo
+    parentId: ogZXqGBBKRSmoG7KQGREHO3QgJ
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: ZhabcYicv1Sm4w2
+  - id: VlQiRWm
+    name: 7B9V5gxxz8FYL9PBYkV9fq59rG
+    description: 'SC_20170109_GINRIN SANKE-9cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/VlQiRWm.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS879DZyV4wHP7pNvYJjZTM7y22KMv5TgMpW4NEyvHywmRv55z5iR4kg0G98xuJNGqnDnvzTz3BZxmxAQuKxzlo99k5FEP5k1Q22wcBxKOwBKLXc5qVGZQGQysRWZrPOQW5HwjQ2NVVwvSyGyEMnqAOcwAnNr82KjFvY68Nj6PmFP8EAvBYOj
+    parentId: 7B9V5gxxz8FYL9PBYkV9fq59rG
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: xY7sbPbQTzr4ER4
+  - id: QlqBBsZ
+    name: j9Y6lzwwMQU0gkBK9EWKs1GV8Y
+    description: 'SC_20170109_GINRIN SANKE-15cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/QlqBBsZ.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA2DVPoy81t6jlPM4AjqtGgo996G3RcEWPPn3jwXFOGjG1RxJlfnZ5rALXMlTjQVBpozzAHKym0V5RlWsoQJgprrB5FLKZOV4xxJC95op7935QCLm8n5vxnGcVZEMo27nYcWZj0yGrkmcXlpwP4WW3uLV0M0YjOWHgvk72okzZumLQnnD14R
+    parentId: j9Y6lzwwMQU0gkBK9EWKs1GV8Y
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: qN1T1afmvkoaGi2
+  - id: pwPOzqs
+    name: wq07BQNN59tnO3Rk9yKnI1yJRx
+    description: 'SC_20170109_KAWARIMONO-13cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/pwPOzqs.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYo083pvKNCEA5GnXJDDi398vvYJQlHMArr1NlNLSDq0qV18J8H7MvJj6yZJsqVlQKGnRDs74gq72V6BcWvAgVrr0NtvW18jg006Fp6Y1BpYYnH4xD8EqVgXfn74wmzKojUGByGkNVxJfLVg5mrwngURQ6Llw2l0hM672qB7xlSG0X6v9PrD
+    parentId: wq07BQNN59tnO3Rk9yKnI1yJRx
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: pJ0LiCrIzEuEwVv
+  - id: mKHbDsx
+    name: pjZL0JDDKwuZ5pM9wKvQSJ0KqP
+    description: 'SC_20170109_GINRIN BEKKO-13cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/mKHbDsx.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9E6GwvKG0cV0JzEjGjETWo5yyAv6mfq7991J4L7fMPPloPoGwfqA2xPGELKHp56LOvjnmfJ5r6DRV9ZckZ6VBJJEjtMlQ4z3PPjTpKNmMpN90cWJxq8909DCDAXvL9rJBTYQ446kY2QumkOBWmqxNF7O8LzgOgAF6Xxl7AxLDcG7Y6jZAMJ
+    parentId: pjZL0JDDKwuZ5pM9wKvQSJ0KqP
+    postId: GrPrBP1V8vh96NO1rK9GflJZ4kEkBmCWVJy6l0LGT049gE6GYwFJ5
+    factor: 1.40
+    portrait: 1
+    mInfo: rHSV4zHkGSFWqDv
+story: '欣昌錦鯉養殖場 added 7 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 7 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/M9vOSjo.jpg"><img class="postImage" src="https://i.imgur.com/M9vOSjoh.jpg" />  
+SC_20170109_GINRIN SANKE-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/4bPIx0I.jpg"><img class="postImage" src="https://i.imgur.com/4bPIx0Ih.jpg" />  
+SC_20170109_GINRIN KOHAKU-17cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/i46yfyH.jpg"><img class="postImage" src="https://i.imgur.com/i46yfyHh.jpg" />  
+SC_20170109_KAWARIMONO-14cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/VlQiRWm.jpg"><img class="postImage" src="https://i.imgur.com/VlQiRWmh.jpg" />  
+SC_20170109_GINRIN SANKE-9cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/QlqBBsZ.jpg"><img class="postImage" src="https://i.imgur.com/QlqBBsZh.jpg" />  
+SC_20170109_GINRIN SANKE-15cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/pwPOzqs.jpg"><img class="postImage" src="https://i.imgur.com/pwPOzqsh.jpg" />  
+SC_20170109_KAWARIMONO-13cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/mKHbDsx.jpg"><img class="postImage" src="https://i.imgur.com/mKHbDsxh.jpg" />  
+SC_20170109_GINRIN BEKKO-13cm  
+ </a>   
