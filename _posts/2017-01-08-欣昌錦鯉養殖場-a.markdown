@@ -1,0 +1,209 @@
+---
+layout: post
+title: '欣昌錦鯉養殖場 a' 
+date: 2017-01-08T07:27:27+0000 
+categories: [] 
+media:
+  - id: mnjCKuv
+    name: BYr957qGRNhN7Q6nOon6fWK4qy
+    description: 'SC_20170108_GINRIN BEKKO-20cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/mnjCKuv.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M9RnODgPU50gg76WxvtA1BQx8m1xHYo2WKyL7GfAzZR7XWYNhR60w9vBQOTYKPvjOk49F8ZVK6g6wxCYVJm8ggRxfNMrx6J00wSgv7pGgYrouN0N0WvLGOIY1JkKAxwlSmyxDAx6oVupn9PvmzA8SrP7ODWp7mHxpVqPQV1JH6OQNBm5kn
+    parentId: BYr957qGRNhN7Q6nOon6fWK4qy
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: R31t3NebXAyxtfO
+  - id: qeNNuLz
+    name: 9E9Y57WvLQSjY3Bn1nj2UPnpVW
+    description: 'SC_20170104_KOHAKU-17cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/qeNNuLz.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBJ3p3GWlqux4EA64ovVi2OYowVxokhkVBjR6AXlsmBkrRk6R3hzAB5n3YZ3CYMAOEjKW2TL30nAXgD4hQZ2Xo88GwhPEJ41kXXmUWX4RBW6jrsPq44GwYBruRyyw6Gw3qHo4NEyzZLlS7rDVm6kPoSGZJm0vZQPhovVjEYV1ktozNmO1k7W
+    parentId: 9E9Y57WvLQSjY3Bn1nj2UPnpVW
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: SF3aq26TNLYVx9U
+  - id: d9HUe71
+    name: Q8kgwqMr50tL3QMpK3Qotr2wOm
+    description: 'SC_20170104_KOHAKU-23cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/d9HUe71.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7kj2WJyRhvL0pRklVmHLwoN3mGvkhq9A5MYKEVfLGG4JgJoESVLPP0B72MikBjP698w1CKZkZpX2ZBTY8XL164Q9ToPE79loANIzYqgKpxX8sX8ANpoBD6H2Bv7OWWnGspAxEoNL0vhqDj8L7qW7c9Wll1x4A3Tl5LqOmVokFZE38PMEY
+    parentId: Q8kgwqMr50tL3QMpK3Qotr2wOm
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: C04rr8cawwZo8uZ
+  - id: qeNNuLz
+    name: 9E9Y57WvLQSjY3Bn1nj2UPnpVW
+    description: 'SC_20170104_KOHAKU-17cm'   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/qeNNuLz.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBJ3p3GWlqux4EA64ovVi2OYowVxokhkVBjR6AXlsmBkrRk6R3hzAB5n3YZ3CYMAOEjKW2TL30nAXgD4hQZ2Xo88GwhPEJ41kXXmUWX4RBW6jrsPq44GwYBruRyyw6Gw3qHo4NEyzZLlS7rDVm6kPoSGZJm0vZQPhovVjEYV1ktozNmO1k7W
+    parentId: 9E9Y57WvLQSjY3Bn1nj2UPnpVW
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: SF3aq26TNLYVx9U
+  - id: d9HUe71
+    name: Q8kgwqMr50tL3QMpK3Qotr2wOm
+    description: 'SC_20170104_KOHAKU-23cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/d9HUe71.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7kj2WJyRhvL0pRklVmHLwoN3mGvkhq9A5MYKEVfLGG4JgJoESVLPP0B72MikBjP698w1CKZkZpX2ZBTY8XL164Q9ToPE79loANIzYqgKpxX8sX8ANpoBD6H2Bv7OWWnGspAxEoNL0vhqDj8L7qW7c9Wll1x4A3Tl5LqOmVokFZE38PMEY
+    parentId: Q8kgwqMr50tL3QMpK3Qotr2wOm
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: C04rr8cawwZo8uZ
+  - id: mnjCKuv
+    name: BYr957qGRNhN7Q6nOon6fWK4qy
+    description: 'SC_20170108_GINRIN BEKKO-20cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/mnjCKuv.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M9RnODgPU50gg76WxvtA1BQx8m1xHYo2WKyL7GfAzZR7XWYNhR60w9vBQOTYKPvjOk49F8ZVK6g6wxCYVJm8ggRxfNMrx6J00wSgv7pGgYrouN0N0WvLGOIY1JkKAxwlSmyxDAx6oVupn9PvmzA8SrP7ODWp7mHxpVqPQV1JH6OQNBm5kn
+    parentId: BYr957qGRNhN7Q6nOon6fWK4qy
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: R31t3NebXAyxtfO
+  - id: IyUyEej
+    name: vpQLA7169otZ25DXrPnJSonr9N
+    description: 'SC_20170104_KOHAKU-22cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/IyUyEej.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflA36gZz88uZNvg3MrnjTklB7r3X4BHP3ynqLqnrSO22P45jAkH8jrL6kE3vfv0ggNE6QjtDjN6OgLKyUQA8OnWWVjhozyQJN44muO5DqvODvXTW5oJJJ8AGFqjgGpWPgxsGBvgJqlg9h97JOwg6WLClPwDG0LOWHkKYNAmYjMcZvQNDqrLg
+    parentId: vpQLA7169otZ25DXrPnJSonr9N
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: gdfRgAE19ZySICA
+  - id: oJr40nW
+    name: g9pMgV0WQLSJY0XJyNxRuEA8lP
+    description: 'SC_20170104_KOHAKU-22cm'   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/oJr40nW.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjv8vOWlPsJp4DVlxYnuxQ2rj76rZCwDzNRAwOvTmvw3Yyz3WsD9nxkExOkhM1z59OEQJsQzG0AEyWqIgvRqlmm0KFWnrpKN55PuJY79NJ733F0pqq1Km7QIpqMPyEVzQtg3KWlJLLxsyQv0kJvZ1u8K45wE4P9fOB630L65jSlBW548xyq
+    parentId: g9pMgV0WQLSJY0XJyNxRuEA8lP
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: Itb2c6GeSM1Izyf
+  - id: xYCtx9n
+    name: DVqW57vKJ1IZ52vpg6mqCl9MY9
+    description: 'SC_20170108_GINRIN KOHAKU-24cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/xYCtx9n.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYo083pvKNCEBmL3gwLZU3yZB6NvOQIMv6m51mJmTDqV45oW31UWAP2QB9ZwhqPO437AYps7YBAnYPZjhWvAgVrr0NtvW18jg006Fp6Y1BpvlPs4gORmz602TrkNxnDWM4IXxYVOYn0YI08y7GmoGNHR53qOQlMwTM672qB7xlSGYWnq4nAN
+    parentId: DVqW57vKJ1IZ52vpg6mqCl9MY9
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: 9tGCMa2OUu9LUua
+  - id: CLFYIBF
+    name: 1v638zLkBrHXEzyqVmyDSYKLgl
+    description: 'SC_20170104_KOHAKU-17cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/CLFYIBF.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DYyYq1zVcomOMXNGO0ULAZKYw8K3H9rZLp5v6YfQoqEvql29tNxV58m4YrFkQYmEVELzTYvy4BrYR8s4Pr9BKKV1S7gxm2q55JT75pBN7Jo1tjpmQ7DRG1snAkAKBXEkijV98ov0rnu9QwPVWMYnI0XpYJ5JjVCYq30Gm3E6C4MnR1gqqy
+    parentId: 1v638zLkBrHXEzyqVmyDSYKLgl
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: oQhn2wuqtbLxm3P
+  - id: Y9CV60l
+    name: DVqW57vKJ9HZn9qOXOnKCl7WGg
+    description: 'SC_20170104_SHOWA-24cm'   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/Y9CV60l.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl5vDN9yWAIpNMB5rBADFv6BWKR5z0SKRZpj143ATzZZMKM9jGiLlKKnmMk7i3OQR1pnykf3vvvxL2pEcpKmNPDDOYfXjlm6N11gS7GxX47QnWUr752pE2qkTG0Mv4XYzncBZDWGQR06I3EzRgoVVrh0kXnNQQO3iozw6mMwW8tLZmBMk7KB
+    parentId: DVqW57vKJ9HZn9qOXOnKCl7WGg
+    postId: QG3GP3o87nULY1lknMLrF1J0jrVr5lCEgqONnR56cEBrLmX9Z4tGY
+    factor: 1.40
+    portrait: 1
+    mInfo: rljNuMjJz52PEjo
+story: '欣昌錦鯉養殖場 added 8 new photos.'  
+---
+
+欣昌錦鯉養殖場 added 8 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/mnjCKuv.jpg"><img class="postImage" src="https://i.imgur.com/mnjCKuvh.jpg" />  
+SC_20170108_GINRIN BEKKO-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/qeNNuLz.jpg"><img class="postImage" src="https://i.imgur.com/qeNNuLzh.jpg" />  
+SC_20170104_KOHAKU-17cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/d9HUe71.jpg"><img class="postImage" src="https://i.imgur.com/d9HUe71h.jpg" />  
+SC_20170104_KOHAKU-23cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/qeNNuLz.jpg"><img class="postImage" src="https://i.imgur.com/qeNNuLzh.jpg" />  
+SC_20170104_KOHAKU-17cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/d9HUe71.jpg"><img class="postImage" src="https://i.imgur.com/d9HUe71h.jpg" />  
+SC_20170104_KOHAKU-23cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/mnjCKuv.jpg"><img class="postImage" src="https://i.imgur.com/mnjCKuvh.jpg" />  
+SC_20170108_GINRIN BEKKO-20cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/IyUyEej.jpg"><img class="postImage" src="https://i.imgur.com/IyUyEejh.jpg" />  
+SC_20170104_KOHAKU-22cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/oJr40nW.jpg"><img class="postImage" src="https://i.imgur.com/oJr40nWh.jpg" />  
+SC_20170104_KOHAKU-22cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/xYCtx9n.jpg"><img class="postImage" src="https://i.imgur.com/xYCtx9nh.jpg" />  
+SC_20170108_GINRIN KOHAKU-24cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/CLFYIBF.jpg"><img class="postImage" src="https://i.imgur.com/CLFYIBFh.jpg" />  
+SC_20170104_KOHAKU-17cm  
+ </a>    
+
+
+<a href="https://i.imgur.com/Y9CV60l.jpg"><img class="postImage" src="https://i.imgur.com/Y9CV60lh.jpg" />  
+SC_20170104_SHOWA-24cm  
+ </a>   
